@@ -134,41 +134,40 @@ def route2():
 
 
 #################################################
-# Jane's first branch/route; update as needed
+# Jane's first branch/route
 #################################################
 @app.route("/IndyCar/pitstops/<driver>")
 def pitstops(driver):
     results = session.query(
         indydata_2024.race_num,
         indydata_2024.race_city,
-        indydata_2024,num_pit_stop
+        indydata_2024.num_pit_stop
     ).filter(indydata_2024,driver == driver).order_by(indydata_2024.race_num).all()
 
-#Prepare data for graph
-data = []
-for row in results:
-    race_lable = f"{row.race_num}-{row.race_city}"
-    data.append({
-        'race_label':race_label,
-        'num_pit_stop':row.num_pit_stop
-    })
-graph_data = pd.DataFrame(data)
-fig = px.line(graph_data, x='race_label', y='num_pit_stop', title=f"Number of Pit Stops per {driver} by Race")
-fig.update_layout(
-    xaxis_title='Race Number and Location',
-    yaxis_title='Number of Pit Stops'
-)
+    #Prepare data for graph
+    data = []
+    for row in results:
+        race_label = f"{row.race_num}-{row.race_city}"
+        data.append({
+            'race_label':race_label,
+            'num_pit_stop':row.num_pit_stop
+        })
+    graph_data = pd.DataFrame(data)
+    fig = px.line(graph_data, x='race_label', y='num_pit_stop', title=f"Number of Pit Stops per {driver} by Race")
+    fig.update_layout(
+        xaxis_title='Race Number and Location',
+        yaxis_title='Number of Pit Stops'
+    )
 
-graph_html = pio.to_html(fig, full_html=False)
+    graph_html = pio.to_html(fig, full_html=False)
 
-#Return 
-return render_template('pitstops.html', graph_html=graph_html)
-# Jsonify data to be returned    
-    return jsonify()
-
+    #Return 
+    return render_template('pitstops.html', graph_html=graph_html)
+    # Jsonify data to be returned    
+    return jsonify() 
 
 #################################################
-# Jane's second branch/route; update as needed
+# Jane's second branch/route
 #################################################
 @app.route("/IndyCar/lapscompleted/<driver>")
 def laps_completed(driver):
@@ -186,21 +185,19 @@ def laps_completed(driver):
             'race_label':race_label,
             'laps':row.laps
         })
-graph_data = pd.DataFrame(data)
+    graph_data = pd.DataFrame(data)
 
- fig = px.line(graph_data, x='race_label', y='laps', title=f"Number of Laps Completed by {driver} per Race")
+    fig = px.line(graph_data, x='race_label', y='laps', title=f"Number of Laps Completed by {driver} per Race")
     fig.update_layout(
         xaxis_title='Race Number and Location',
         yaxis_title='Laps Completed'
-    )
-
-    # Convert the figure to HTML
+    ) 
     graph_html = pio.to_html(fig, full_html=False)
 
-    
     return render_template('laps_completed.html', graph_html=graph_html)
-# Jsonify data to be returned    
+    # Jsonify data to be returned    
     return jsonify()
+
 
 
 #################################################
