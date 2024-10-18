@@ -109,9 +109,9 @@ def welcome():
 
         # Rob branch/route; update as needed.
         f"<div style='text-indent: 0px; font-size: 20px;'>"
-        f"<strong>Championship Points by League (F1, IndyCar, IMSA)</strong><br/>" 
+        f"<strong>Championship Points by Track Type)</strong><br/>" 
         f"<div style='text-indent: 20px; font-size: 15px;'>"
-        f"Route Location: /IndyCar/points/Driver-Name<br/><br/>"
+        f"Route Location: /IndyCar/points/Track-Type<br/><br/>"
 
         # Laura branch/route; update as needed
         f"<div style='text-indent: 0px; font-size: 20px;'>"
@@ -164,7 +164,7 @@ def welcome():
 #################################################
 # Rob branch/route; update as needed.
 #################################################
-@app.route("/IndyCar/points")
+@app.route("/IndyCar/points/<track_type>")
 def points(track_type):
     results = session.query(indydata_2024
     ).filter(indydata_2024.track_type == track_type
@@ -199,7 +199,7 @@ def points(track_type):
     return jsonify()
 
 
-@app.route("/IndyCar/rank")
+@app.route("/IndyCar/rank/<track_type>")
 def rank(track_type):
     results = session.query(indydata_2024
     ).filter(indydata_2024.track_type == track_type
