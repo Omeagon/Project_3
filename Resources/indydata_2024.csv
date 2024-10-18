@@ -1,467 +1,467 @@
 race_num,race_city,rank,driver,car_no,start,laps,total_time,laps_led,status,avg_speed,num_pit_stop,points,points_f1,points_IMSA,track_type
-6,detroit,1,Scott Dixon,9,5,100,7567.9684,100,Running,78.251,2,53,25,376,Street Course
-6,detroit,2,Marcus Ericsson,28,9,100,7568.8251,100,Running,78.242,2,40,18,342,Street Course
-6,detroit,3,Marcus Armstrong,11,19,100,7572.8813,100,Running,78.200,4,35,15,312,Street Course
-6,detroit,4,Kyle Kirkwood,27,6,100,7574.0933,100,Running,78.188,2,33,12,305,Street Course
-6,detroit,5,Alexander Rossi,7,16,100,7576.9216,100,Running,78.158,4,30,10,275,Street Course
-6,detroit,6,Will Power,12,8,100,7578.0729,100,Running,78.147,4,28,8,273,Street Course
-6,detroit,7,Pato O'Ward,5,12,100,7579.4505,100,Running,78.132,4,26,6,259,Street Course
-6,detroit,8,Felix Rosenqvist,60,22,100,7583.4682,100,Running,78.091,4,24,4,239,Street Course
-6,detroit,9,Santino Ferrucci,14,10,100,7586.2566,100,Running,78.062,5,22,2,241,Street Course
-6,detroit,10,Theo Pourchaire,6,7,100,7586.8596,100,Running,78.056,4,20,1,234,Street Course
-6,detroit,11,Christian Lundgaard,45,11,100,7591.2842,100,Running,78.011,4,20,0,220,Street Course
-6,detroit,12,Agustin Canapino,78,17,100,7595.3358,100,Running,77.969,4,18,0,204,Street Course
-6,detroit,13,Pietro Fittipaldi,30,15,100,7596.337,100,Running,77.959,4,17,0,196,Street Course
-6,detroit,14,Rinus VeeKay,21,18,100,7597.3806,100,Running,77.948,3,16,0,183,Street Course
-6,detroit,15,Graham Rahal,15,20,100,7598.1249,100,Running,77.940,4,15,0,171,Street Course
-6,detroit,16,Alex Palou,10,2,100,7607.0122,100,Running,77.849,5,15,0,182,Street Course
-6,detroit,17,Jack Harvey,18,26,100,7614.3061,100,Running,77.775,5,13,0,145,Street Course
-6,detroit,18,Tristan Vautier,51,24,99,7580.3437,99,Running,77.342,4,12,0,137,Street Course
-6,detroit,19,Colton Herta,26,1,99,7593.2229,99,Running,77.211,4,13,0,155,Street Course
-6,detroit,20,Scott McLaughlin,3,4,99,7600.7466,99,Running,77.134,2,10,0,138,Street Course
-6,detroit,21,Sting Ray Robb,41,23,99,7614.9977,99,Running,76.990,4,9,0,108,Street Course
-6,detroit,22,Linus Lundqvist,8,21,99,7615.2725,99,Running,76.987,5,8,0,100,Street Course
-6,detroit,23,Romain Grosjean,77,14,97,7599.1904,97,Running,75.591,2,7,0,97,Street Course
-6,detroit,24,Kyffin Simpson,4,27,96,7616.8918,96,Running,74.638,6,6,0,74,Street Course
-6,detroit,25,Helio Castroneves,66,25,95,7627.611,95,Running,73.757,5,5,0,66,Street Course
-6,detroit,26,Josef Newgarden,2,3,94,7622.1853,94,Running,73.033,5,6,0,80,Street Course
-6,detroit,27,Christian Rasmussen,20,13,24,6734.4116,24,Mechanical,21.105,0,5,0,58,Street Course
-2,longbeach,1,Scott Dixon,9,8,85,6123.1416,85,Running,98.350,2,53,25,373,Street Course
-2,longbeach,2,Colton Herta,26,4,85,6124.1214,85,Running,98.334,2,41,18,348,Street Course
-2,longbeach,3,Alex Palou,10,6,85,6124.908,85,Running,98.321,2,35,15,325,Street Course
-2,longbeach,4,Josef Newgarden,2,3,85,6127.1151,85,Running,98.286,2,33,12,310,Street Course
-2,longbeach,5,Marcus Ericsson,28,5,85,6127.5185,85,Running,98.279,2,30,10,286,Street Course
-2,longbeach,6,Will Power,12,2,85,6138.9055,85,Running,98.097,2,29,8,282,Street Course
-2,longbeach,7,Kyle Kirkwood,27,10,85,6139.3204,85,Running,98.090,2,27,6,261,Street Course
-2,longbeach,8,Romain Grosjean,77,16,85,6141.1849,85,Running,98.061,2,24,4,245,Street Course
-2,longbeach,9,Felix Rosenqvist,60,1,85,6141.9571,85,Running,98.048,2,24,2,255,Street Course
-2,longbeach,10,Alexander Rossi,7,13,85,6155.2331,85,Running,97.837,3,20,1,228,Street Course
-2,longbeach,11,Theo Pourchaire,6,22,85,6156.5825,85,Running,97.815,2,19,0,209,Street Course
-2,longbeach,12,Marcus Armstrong,11,9,85,6163.9623,85,Running,97.698,2,18,0,212,Street Course
-2,longbeach,13,Linus Lundqvist,8,17,85,6165.1419,85,Running,97.680,2,17,0,194,Street Course
-2,longbeach,14,Rinus VeeKay,21,18,85,6167.5741,85,Running,97.641,2,16,0,183,Street Course
-2,longbeach,15,Agustin Canapino,78,20,85,6174.4572,85,Running,97.532,3,15,0,171,Street Course
-2,longbeach,16,Pato O'Ward,5,14,85,6176.1377,85,Running,97.506,3,14,0,167,Street Course
-2,longbeach,17,Graham Rahal,15,12,85,6185.6606,85,Running,97.355,2,13,0,159,Street Course
-2,longbeach,18,Sting Ray Robb,41,25,85,6188.7314,85,Running,97.307,2,12,0,136,Street Course
-2,longbeach,19,Kyffin Simpson,4,26,84,6126.5316,84,Running,97.139,2,11,0,125,Street Course
-2,longbeach,20,Nolan Siegel,51,27,84,6129.832,84,Running,97.086,2,10,0,114,Street Course
-2,longbeach,21,Santino Ferrucci,14,24,84,6132.4251,84,Running,97.045,3,9,0,107,Street Course
-2,longbeach,22,Tom Blomqvist,66,15,84,6148.7772,84,Running,96.787,3,8,0,106,Street Course
-2,longbeach,23,Christian Lundgaard,45,7,84,6154.2538,84,Running,96.701,3,7,0,104,Street Course
-2,longbeach,24,Pietro Fittipaldi,30,19,84,6172.7942,84,Running,96.411,3,6,0,82,Street Course
-2,longbeach,25,Jack Harvey,18,23,83,6151.6976,83,Running,95.590,4,5,0,68,Street Course
-2,longbeach,26,Scott McLaughlin,3,11,71,5213.2828,71,Running,96.488,2,5,0,70,Street Course
-2,longbeach,27,Christian Rasmussen,20,21,14,1043.1996,14,Contact,95.080,0,5,0,50,Street Course
-7,roadamerica,1,Will Power,12,5,55,6300.0267,55,Running,126.154,3,51,25,376,Road Course
-7,roadamerica,2,Josef Newgarden,2,6,55,6303.2876,55,Running,126.088,3,41,18,345,Road Course
-7,roadamerica,3,Scott McLaughlin,3,8,55,6308.0415,55,Running,125.993,3,38,15,323,Road Course
-7,roadamerica,4,Alex Palou,10,7,55,6316.7385,55,Running,125.820,3,33,12,304,Road Course
-7,roadamerica,5,Kyle Kirkwood,27,4,55,6324.8929,55,Running,125.658,3,31,10,288,Road Course
-7,roadamerica,6,Colton Herta,26,2,55,6328.4049,55,Running,125.588,5,29,8,282,Road Course
-7,roadamerica,7,Romain Grosjean,77,14,55,6329.2977,55,Running,125.570,3,26,6,257,Road Course
-7,roadamerica,8,Pato O'Ward,5,11,55,6330.3376,55,Running,125.550,4,24,4,250,Road Course
-7,roadamerica,9,Marcus Ericsson,28,15,55,6335.6527,55,Running,125.444,3,22,2,236,Road Course
-7,roadamerica,10,Graham Rahal,15,24,55,6342.8661,55,Running,125.302,4,20,1,217,Road Course
-7,roadamerica,11,Christian Lundgaard,45,13,55,6346.4711,55,Running,125.231,3,19,0,218,Road Course
-7,roadamerica,12,Linus Lundqvist,8,1,55,6346.8374,55,Running,125.223,5,19,0,225,Road Course
-7,roadamerica,13,Theo Pourchaire,6,18,55,6354.5549,55,Running,125.071,3,17,0,193,Road Course
-7,roadamerica,14,Felix Rosenqvist,60,22,55,6359.2679,55,Running,124.979,3,17,0,179,Road Course
-7,roadamerica,15,Santino Ferrucci,14,19,55,6363.7603,55,Running,124.890,3,15,0,172,Road Course
-7,roadamerica,16,Pietro Fittipaldi,30,25,55,6364.7428,55,Running,124.871,3,14,0,156,Road Course
-7,roadamerica,17,Sting Ray Robb,41,26,55,6368.4656,55,Running,124.798,3,13,0,145,Road Course
-7,roadamerica,18,Alexander Rossi,7,9,55,6375.0693,55,Running,124.669,3,12,0,152,Road Course
-7,roadamerica,19,Helio Castroneves,66,27,55,6375.7185,55,Running,124.656,3,11,0,124,Road Course
-7,roadamerica,20,Christian Rasmussen,20,16,55,6379.0968,55,Running,124.590,3,10,0,125,Road Course
-7,roadamerica,21,Scott Dixon,9,10,55,6384.5021,55,Running,124.485,3,9,0,121,Road Course
-7,roadamerica,22,Luca Ghiotto,51,23,55,6400.1879,55,Running,124.179,5,8,0,98,Road Course
-7,roadamerica,23,Nolan Siegel,78,21,54,6310.179,54,Running,123.661,5,7,0,90,Road Course
-7,roadamerica,24,Rinus VeeKay,21,17,53,6321.9506,53,Running,121.145,3,6,0,84,Road Course
-7,roadamerica,25,Jack Harvey,18,20,51,6388.2869,51,Running,115.363,3,5,0,71,Road Course
-7,roadamerica,26,Marcus Armstrong,11,3,35,4234.4531,35,Mechanical,119.440,3,5,0,80,Road Course
-7,roadamerica,27,Kyffin Simpson,4,12,5,788.8502,5,Contact,91.592,0,5,0,59,Road Course
-11,iowa2,1,Will Power,12,22,250,5198.7472,250,Running,154.768,2,51,25,359,Oval
-11,iowa2,2,Alex Palou,10,2,250,5199.1387,250,Running,154.756,2,43,18,352,Oval
-11,iowa2,3,Scott McLaughlin,3,1,250,5201.1123,250,Running,154.698,2,37,15,335,Oval
-11,iowa2,4,Scott Dixon,9,3,250,5201.2798,250,Running,154.693,2,32,12,310,Oval
-11,iowa2,5,Colton Herta,26,4,250,5203.1835,250,Running,154.636,2,30,10,288,Oval
-11,iowa2,6,Pato O'Ward,5,7,250,5203.4261,250,Running,154.629,2,28,8,274,Oval
-11,iowa2,7,Josef Newgarden,2,14,250,5203.6064,250,Running,154.624,2,26,6,257,Oval
-11,iowa2,8,Graham Rahal,15,8,250,5216.8028,250,Running,154.232,2,24,4,253,Oval
-11,iowa2,9,Rinus VeeKay,21,15,250,5217.512,250,Running,154.211,2,22,2,236,Oval
-11,iowa2,10,Romain Grosjean,77,16,250,5219.228,250,Running,154.161,2,20,1,225,Oval
-11,iowa2,11,Santino Ferrucci,14,19,250,5219.5783,250,Running,154.150,2,19,0,212,Oval
-11,iowa2,12,Linus Lundqvist,8,13,250,5223.7707,250,Running,154.027,3,19,0,208,Oval
-11,iowa2,13,David Malukas,66,9,250,5225.2245,250,Running,153.984,2,17,0,202,Oval
-11,iowa2,14,Nolan Siegel,6,11,250,5226.8768,250,Running,153.935,2,16,0,190,Oval
-11,iowa2,15,Alexander Rossi,7,6,249,5191.4464,249,Contact,154.366,2,15,0,185,Oval
-11,iowa2,16,Kyle Kirkwood,27,12,249,5194.3082,249,Contact,154.281,2,14,0,169,Oval
-11,iowa2,17,Christian Lundgaard,45,18,249,5200.0377,249,Running,154.111,2,13,0,153,Oval
-11,iowa2,18,Kyffin Simpson,4,23,249,5202.3091,249,Running,154.043,2,12,0,138,Oval
-11,iowa2,19,Marcus Armstrong,11,25,249,5222.9722,249,Running,153.434,2,11,0,126,Oval
-11,iowa2,20,Pietro Fittipaldi,30,17,249,5224.6798,249,Running,153.384,2,10,0,124,Oval
-11,iowa2,21,Sting Ray Robb,41,20,248,5192.5738,248,Contact,153.712,2,9,0,111,Oval
-11,iowa2,22,Ed Carpenter,20,26,248,5193.2816,248,Contact,153.691,2,8,0,95,Oval
-11,iowa2,23,Marcus Ericsson,28,21,248,5200.6183,248,Running,153.475,2,7,0,90,Oval
-11,iowa2,24,Katherine Legge,51,24,248,5202.7888,248,Running,153.411,2,6,0,77,Oval
-11,iowa2,25,Agustin Canapino,78,10,221,4944.1541,221,Mechanical,143.860,3,5,0,81,Oval
-11,iowa2,26,Felix Rosenqvist,60,5,184,4320.9701,184,Mechanical,137.049,1,5,0,76,Oval
-11,iowa2,27,Conor Daly,18,27,140,3578.7787,140,Mechanical,125.902,1,5,0,44,Oval
-10,iowa1,1,Scott McLaughlin,3,2,250,6281.1172,250,Running,128.098,2,53,25,382,Oval
-10,iowa1,2,Pato O'Ward,5,6,250,6281.5986,250,Running,128.088,2,40,18,345,Oval
-10,iowa1,3,Josef Newgarden,2,22,250,6282.6346,250,Running,128.067,2,35,15,309,Oval
-10,iowa1,4,Scott Dixon,9,5,250,6286.1213,250,Running,127.996,2,32,12,306,Oval
-10,iowa1,5,Rinus VeeKay,21,13,250,6287.6828,250,Running,127.964,2,30,10,278,Oval
-10,iowa1,6,Santino Ferrucci,14,8,250,6288.5747,250,Running,127.946,2,28,8,273,Oval
-10,iowa1,7,Kyle Kirkwood,27,19,250,6289.5372,250,Running,127.927,2,26,6,252,Oval
-10,iowa1,8,Alexander Rossi,7,7,250,6290.4597,250,Running,127.908,2,24,4,254,Oval
-10,iowa1,9,Marcus Ericsson,28,10,250,6291.4942,250,Running,127.887,2,22,2,241,Oval
-10,iowa1,10,Marcus Armstrong,11,9,250,6292.5178,250,Running,127.866,2,20,1,232,Oval
-10,iowa1,11,Colton Herta,26,1,250,6292.9286,250,Running,127.858,2,21,0,235,Oval
-10,iowa1,12,Nolan Siegel,6,15,250,6293.2451,250,Running,127.851,2,18,0,206,Oval
-10,iowa1,13,Felix Rosenqvist,60,11,250,6293.5823,250,Running,127.845,2,17,0,200,Oval
-10,iowa1,14,Kyffin Simpson,4,27,250,6294.622,250,Running,127.823,2,16,0,174,Oval
-10,iowa1,15,Sting Ray Robb,41,24,250,6295.1414,250,Running,127.813,2,15,0,167,Oval
-10,iowa1,16,Graham Rahal,15,21,249,6295.6604,249,Running,127.291,2,14,0,160,Oval
-10,iowa1,17,Katherine Legge,51,26,249,6299.6138,249,Running,127.211,2,13,0,145,Oval
-10,iowa1,18,Will Power,12,4,241,6298.6088,241,Running,123.144,4,12,0,158,Oval
-10,iowa1,19,Pietro Fittipaldi,30,17,228,5666.8875,228,Contact,129.488,2,11,0,134,Oval
-10,iowa1,20,Ed Carpenter,20,25,228,5668.1006,228,Contact,129.461,3,10,0,116,Oval
-10,iowa1,21,Linus Lundqvist,8,12,209,5004.4177,209,Mechanical,134.410,2,9,0,119,Oval
-10,iowa1,22,Christian Lundgaard,45,23,178,6099.5544,178,Contact,93.921,3,8,0,98,Oval
-10,iowa1,23,Alex Palou,10,3,175,4029.0616,175,Contact,139.789,1,7,0,110,Oval
-10,iowa1,24,Romain Grosjean,77,20,48,4375.2974,48,Contact,35.308,1,6,0,81,Oval
-10,iowa1,25,Jack Harvey,18,18,28,1034.2261,28,Retired,87.133,0,5,0,73,Oval
+6,detroit,1,Scott Dixon,9,5,100,7567.9684,35,Running,78.251,2,53,25,376,Street Course
+6,detroit,2,Marcus Ericsson,28,9,100,7568.8251,0,Running,78.242,2,40,18,342,Street Course
+6,detroit,3,Marcus Armstrong,11,19,100,7572.8813,0,Running,78.200,4,35,15,312,Street Course
+6,detroit,4,Kyle Kirkwood,27,6,100,7574.0933,24,Running,78.188,2,33,12,305,Street Course
+6,detroit,5,Alexander Rossi,7,16,100,7576.9216,0,Running,78.158,4,30,10,275,Street Course
+6,detroit,6,Will Power,12,8,100,7578.0729,0,Running,78.147,4,28,8,273,Street Course
+6,detroit,7,Pato O'Ward,5,12,100,7579.4505,0,Running,78.132,4,26,6,259,Street Course
+6,detroit,8,Felix Rosenqvist,60,22,100,7583.4682,0,Running,78.091,4,24,4,239,Street Course
+6,detroit,9,Santino Ferrucci,14,10,100,7586.2566,0,Running,78.062,5,22,2,241,Street Course
+6,detroit,10,Theo Pourchaire,6,7,100,7586.8596,0,Running,78.056,4,20,1,234,Street Course
+6,detroit,11,Christian Lundgaard,45,11,100,7591.2842,6,Running,78.011,4,20,0,220,Street Course
+6,detroit,12,Agustin Canapino,78,17,100,7595.3358,0,Running,77.969,4,18,0,204,Street Course
+6,detroit,13,Pietro Fittipaldi,30,15,100,7596.337,0,Running,77.959,4,17,0,196,Street Course
+6,detroit,14,Rinus VeeKay,21,18,100,7597.3806,0,Running,77.948,3,16,0,183,Street Course
+6,detroit,15,Graham Rahal,15,20,100,7598.1249,0,Running,77.940,4,15,0,171,Street Course
+6,detroit,16,Alex Palou,10,2,100,7607.0122,1,Running,77.849,5,15,0,182,Street Course
+6,detroit,17,Jack Harvey,18,26,100,7614.3061,0,Running,77.775,5,13,0,145,Street Course
+6,detroit,18,Tristan Vautier,51,24,99,7580.3437,0,Running,77.342,4,12,0,137,Street Course
+6,detroit,19,Colton Herta,26,1,99,7593.2229,33,Running,77.211,4,13,0,155,Street Course
+6,detroit,20,Scott McLaughlin,3,4,99,7600.7466,0,Running,77.134,2,10,0,138,Street Course
+6,detroit,21,Sting Ray Robb,41,23,99,7614.9977,0,Running,76.990,4,9,0,108,Street Course
+6,detroit,22,Linus Lundqvist,8,21,99,7615.2725,0,Running,76.987,5,8,0,100,Street Course
+6,detroit,23,Romain Grosjean,77,14,97,7599.1904,0,Running,75.591,2,7,0,97,Street Course
+6,detroit,24,Kyffin Simpson,4,27,96,7616.8918,0,Running,74.638,6,6,0,74,Street Course
+6,detroit,25,Helio Castroneves,66,25,95,7627.611,0,Running,73.757,5,5,0,66,Street Course
+6,detroit,26,Josef Newgarden,2,3,94,7622.1853,1,Running,73.033,5,6,0,80,Street Course
+6,detroit,27,Christian Rasmussen,20,13,24,6734.4116,0,Mechanical,21.105,0,5,0,58,Street Course
+2,longbeach,1,Scott Dixon,9,8,85,6123.1416,42,Running,98.350,2,53,25,373,Street Course
+2,longbeach,2,Colton Herta,26,4,85,6124.1214,7,Running,98.334,2,41,18,348,Street Course
+2,longbeach,3,Alex Palou,10,6,85,6124.908,0,Running,98.321,2,35,15,325,Street Course
+2,longbeach,4,Josef Newgarden,2,3,85,6127.1151,19,Running,98.286,2,33,12,310,Street Course
+2,longbeach,5,Marcus Ericsson,28,5,85,6127.5185,0,Running,98.279,2,30,10,286,Street Course
+2,longbeach,6,Will Power,12,2,85,6138.9055,15,Running,98.097,2,29,8,282,Street Course
+2,longbeach,7,Kyle Kirkwood,27,10,85,6139.3204,1,Running,98.090,2,27,6,261,Street Course
+2,longbeach,8,Romain Grosjean,77,16,85,6141.1849,0,Running,98.061,2,24,4,245,Street Course
+2,longbeach,9,Felix Rosenqvist,60,1,85,6141.9571,1,Running,98.048,2,24,2,255,Street Course
+2,longbeach,10,Alexander Rossi,7,13,85,6155.2331,0,Running,97.837,3,20,1,228,Street Course
+2,longbeach,11,Theo Pourchaire,6,22,85,6156.5825,0,Running,97.815,2,19,0,209,Street Course
+2,longbeach,12,Marcus Armstrong,11,9,85,6163.9623,0,Running,97.698,2,18,0,212,Street Course
+2,longbeach,13,Linus Lundqvist,8,17,85,6165.1419,0,Running,97.680,2,17,0,194,Street Course
+2,longbeach,14,Rinus VeeKay,21,18,85,6167.5741,0,Running,97.641,2,16,0,183,Street Course
+2,longbeach,15,Agustin Canapino,78,20,85,6174.4572,0,Running,97.532,3,15,0,171,Street Course
+2,longbeach,16,Pato O'Ward,5,14,85,6176.1377,0,Running,97.506,3,14,0,167,Street Course
+2,longbeach,17,Graham Rahal,15,12,85,6185.6606,0,Running,97.355,2,13,0,159,Street Course
+2,longbeach,18,Sting Ray Robb,41,25,85,6188.7314,0,Running,97.307,2,12,0,136,Street Course
+2,longbeach,19,Kyffin Simpson,4,26,84,6126.5316,0,Running,97.139,2,11,0,125,Street Course
+2,longbeach,20,Nolan Siegel,51,27,84,6129.832,0,Running,97.086,2,10,0,114,Street Course
+2,longbeach,21,Santino Ferrucci,14,24,84,6132.4251,0,Running,97.045,3,9,0,107,Street Course
+2,longbeach,22,Tom Blomqvist,66,15,84,6148.7772,0,Running,96.787,3,8,0,106,Street Course
+2,longbeach,23,Christian Lundgaard,45,7,84,6154.2538,0,Running,96.701,3,7,0,104,Street Course
+2,longbeach,24,Pietro Fittipaldi,30,19,84,6172.7942,0,Running,96.411,3,6,0,82,Street Course
+2,longbeach,25,Jack Harvey,18,23,83,6151.6976,0,Running,95.590,4,5,0,68,Street Course
+2,longbeach,26,Scott McLaughlin,3,11,71,5213.2828,0,Running,96.488,2,5,0,70,Street Course
+2,longbeach,27,Christian Rasmussen,20,21,14,1043.1996,0,Contact,95.080,0,5,0,50,Street Course
+7,roadamerica,1,Will Power,12,5,55,6300.0267,9,Running,126.154,3,51,25,376,Road Course
+7,roadamerica,2,Josef Newgarden,2,6,55,6303.2876,10,Running,126.088,3,41,18,345,Road Course
+7,roadamerica,3,Scott McLaughlin,3,8,55,6308.0415,18,Running,125.993,3,38,15,323,Road Course
+7,roadamerica,4,Alex Palou,10,7,55,6316.7385,3,Running,125.820,3,33,12,304,Road Course
+7,roadamerica,5,Kyle Kirkwood,27,4,55,6324.8929,3,Running,125.658,3,31,10,288,Road Course
+7,roadamerica,6,Colton Herta,26,2,55,6328.4049,9,Running,125.588,5,29,8,282,Road Course
+7,roadamerica,7,Romain Grosjean,77,14,55,6329.2977,0,Running,125.570,3,26,6,257,Road Course
+7,roadamerica,8,Pato O'Ward,5,11,55,6330.3376,0,Running,125.550,4,24,4,250,Road Course
+7,roadamerica,9,Marcus Ericsson,28,15,55,6335.6527,0,Running,125.444,3,22,2,236,Road Course
+7,roadamerica,10,Graham Rahal,15,24,55,6342.8661,0,Running,125.302,4,20,1,217,Road Course
+7,roadamerica,11,Christian Lundgaard,45,13,55,6346.4711,0,Running,125.231,3,19,0,218,Road Course
+7,roadamerica,12,Linus Lundqvist,8,1,55,6346.8374,0,Running,125.223,5,19,0,225,Road Course
+7,roadamerica,13,Theo Pourchaire,6,18,55,6354.5549,0,Running,125.071,3,17,0,193,Road Course
+7,roadamerica,14,Felix Rosenqvist,60,22,55,6359.2679,3,Running,124.979,3,17,0,179,Road Course
+7,roadamerica,15,Santino Ferrucci,14,19,55,6363.7603,0,Running,124.890,3,15,0,172,Road Course
+7,roadamerica,16,Pietro Fittipaldi,30,25,55,6364.7428,0,Running,124.871,3,14,0,156,Road Course
+7,roadamerica,17,Sting Ray Robb,41,26,55,6368.4656,0,Running,124.798,3,13,0,145,Road Course
+7,roadamerica,18,Alexander Rossi,7,9,55,6375.0693,0,Running,124.669,3,12,0,152,Road Course
+7,roadamerica,19,Helio Castroneves,66,27,55,6375.7185,0,Running,124.656,3,11,0,124,Road Course
+7,roadamerica,20,Christian Rasmussen,20,16,55,6379.0968,0,Running,124.590,3,10,0,125,Road Course
+7,roadamerica,21,Scott Dixon,9,10,55,6384.5021,0,Running,124.485,3,9,0,121,Road Course
+7,roadamerica,22,Luca Ghiotto,51,23,55,6400.1879,0,Running,124.179,5,8,0,98,Road Course
+7,roadamerica,23,Nolan Siegel,78,21,54,6310.179,0,Running,123.661,5,7,0,90,Road Course
+7,roadamerica,24,Rinus VeeKay,21,17,53,6321.9506,0,Running,121.145,3,6,0,84,Road Course
+7,roadamerica,25,Jack Harvey,18,20,51,6388.2869,0,Running,115.363,3,5,0,71,Road Course
+7,roadamerica,26,Marcus Armstrong,11,3,35,4234.4531,0,Mechanical,119.440,3,5,0,80,Road Course
+7,roadamerica,27,Kyffin Simpson,4,12,5,788.8502,0,Contact,91.592,0,5,0,59,Road Course
+11,iowa2,1,Will Power,12,22,250,5198.7472,51,Running,154.768,2,51,25,359,Oval
+11,iowa2,2,Alex Palou,10,2,250,5199.1387,103,Running,154.756,2,43,18,352,Oval
+11,iowa2,3,Scott McLaughlin,3,1,250,5201.1123,94,Running,154.698,2,37,15,335,Oval
+11,iowa2,4,Scott Dixon,9,3,250,5201.2798,0,Running,154.693,2,32,12,310,Oval
+11,iowa2,5,Colton Herta,26,4,250,5203.1835,0,Running,154.636,2,30,10,288,Oval
+11,iowa2,6,Pato O'Ward,5,7,250,5203.4261,0,Running,154.629,2,28,8,274,Oval
+11,iowa2,7,Josef Newgarden,2,14,250,5203.6064,0,Running,154.624,2,26,6,257,Oval
+11,iowa2,8,Graham Rahal,15,8,250,5216.8028,0,Running,154.232,2,24,4,253,Oval
+11,iowa2,9,Rinus VeeKay,21,15,250,5217.512,0,Running,154.211,2,22,2,236,Oval
+11,iowa2,10,Romain Grosjean,77,16,250,5219.228,0,Running,154.161,2,20,1,225,Oval
+11,iowa2,11,Santino Ferrucci,14,19,250,5219.5783,0,Running,154.150,2,19,0,212,Oval
+11,iowa2,12,Linus Lundqvist,8,13,250,5223.7707,3,Running,154.027,3,19,0,208,Oval
+11,iowa2,13,David Malukas,66,9,250,5225.2245,0,Running,153.984,2,17,0,202,Oval
+11,iowa2,14,Nolan Siegel,6,11,250,5226.8768,0,Running,153.935,2,16,0,190,Oval
+11,iowa2,15,Alexander Rossi,7,6,249,5191.4464,0,Contact,154.366,2,15,0,185,Oval
+11,iowa2,16,Kyle Kirkwood,27,12,249,5194.3082,0,Contact,154.281,2,14,0,169,Oval
+11,iowa2,17,Christian Lundgaard,45,18,249,5200.0377,0,Running,154.111,2,13,0,153,Oval
+11,iowa2,18,Kyffin Simpson,4,23,249,5202.3091,0,Running,154.043,2,12,0,138,Oval
+11,iowa2,19,Marcus Armstrong,11,25,249,5222.9722,0,Running,153.434,2,11,0,126,Oval
+11,iowa2,20,Pietro Fittipaldi,30,17,249,5224.6798,0,Running,153.384,2,10,0,124,Oval
+11,iowa2,21,Sting Ray Robb,41,20,248,5192.5738,0,Contact,153.712,2,9,0,111,Oval
+11,iowa2,22,Ed Carpenter,20,26,248,5193.2816,0,Contact,153.691,2,8,0,95,Oval
+11,iowa2,23,Marcus Ericsson,28,21,248,5200.6183,0,Running,153.475,2,7,0,90,Oval
+11,iowa2,24,Katherine Legge,51,24,248,5202.7888,0,Running,153.411,2,6,0,77,Oval
+11,iowa2,25,Agustin Canapino,78,10,221,4944.1541,0,Mechanical,143.860,3,5,0,81,Oval
+11,iowa2,26,Felix Rosenqvist,60,5,184,4320.9701,0,Mechanical,137.049,1,5,0,76,Oval
+11,iowa2,27,Conor Daly,18,27,140,3578.7787,0,Mechanical,125.902,1,5,0,44,Oval
+10,iowa1,1,Scott McLaughlin,3,2,250,6281.1172,164,Running,128.098,2,53,25,382,Oval
+10,iowa1,2,Pato O'Ward,5,6,250,6281.5986,0,Running,128.088,2,40,18,345,Oval
+10,iowa1,3,Josef Newgarden,2,22,250,6282.6346,0,Running,128.067,2,35,15,309,Oval
+10,iowa1,4,Scott Dixon,9,5,250,6286.1213,0,Running,127.996,2,32,12,306,Oval
+10,iowa1,5,Rinus VeeKay,21,13,250,6287.6828,0,Running,127.964,2,30,10,278,Oval
+10,iowa1,6,Santino Ferrucci,14,8,250,6288.5747,0,Running,127.946,2,28,8,273,Oval
+10,iowa1,7,Kyle Kirkwood,27,19,250,6289.5372,0,Running,127.927,2,26,6,252,Oval
+10,iowa1,8,Alexander Rossi,7,7,250,6290.4597,0,Running,127.908,2,24,4,254,Oval
+10,iowa1,9,Marcus Ericsson,28,10,250,6291.4942,0,Running,127.887,2,22,2,241,Oval
+10,iowa1,10,Marcus Armstrong,11,9,250,6292.5178,0,Running,127.866,2,20,1,232,Oval
+10,iowa1,11,Colton Herta,26,1,250,6292.9286,86,Running,127.858,2,21,0,235,Oval
+10,iowa1,12,Nolan Siegel,6,15,250,6293.2451,0,Running,127.851,2,18,0,206,Oval
+10,iowa1,13,Felix Rosenqvist,60,11,250,6293.5823,0,Running,127.845,2,17,0,200,Oval
+10,iowa1,14,Kyffin Simpson,4,27,250,6294.622,0,Running,127.823,2,16,0,174,Oval
+10,iowa1,15,Sting Ray Robb,41,24,250,6295.1414,0,Running,127.813,2,15,0,167,Oval
+10,iowa1,16,Graham Rahal,15,21,249,6295.6604,0,Running,127.291,2,14,0,160,Oval
+10,iowa1,17,Katherine Legge,51,26,249,6299.6138,0,Running,127.211,2,13,0,145,Oval
+10,iowa1,18,Will Power,12,4,241,6298.6088,0,Running,123.144,4,12,0,158,Oval
+10,iowa1,19,Pietro Fittipaldi,30,17,228,5666.8875,0,Contact,129.488,2,11,0,134,Oval
+10,iowa1,20,Ed Carpenter,20,25,228,5668.1006,0,Contact,129.461,3,10,0,116,Oval
+10,iowa1,21,Linus Lundqvist,8,12,209,5004.4177,0,Mechanical,134.410,2,9,0,119,Oval
+10,iowa1,22,Christian Lundgaard,45,23,178,6099.5544,0,Contact,93.921,3,8,0,98,Oval
+10,iowa1,23,Alex Palou,10,3,175,4029.0616,0,Contact,139.789,1,7,0,110,Oval
+10,iowa1,24,Romain Grosjean,77,20,48,4375.2974,0,Contact,35.308,1,6,0,81,Oval
+10,iowa1,25,Jack Harvey,18,18,28,1034.2261,0,Retired,87.133,0,5,0,73,Oval
 10,iowa1,26,David Malukas,66,14,0,1.5292,0,Contact,0.000,0,5,0,67,Oval
 10,iowa1,27,Agustin Canapino,78,16,0,1.6497,0,Contact,0.000,0,5,0,55,Oval
-1,stpetersburg,1,Pato O'Ward,5,3,100,6697.5075,100,Running,96.752,2,50,25,380,Street Course
-1,stpetersburg,2,Will Power,12,8,100,6698.6513,100,Running,96.736,2,30,18,343,Street Course
-1,stpetersburg,3,Colton Herta,26,4,100,6699.8532,100,Running,96.719,2,36,15,328,Street Course
-1,stpetersburg,4,Alex Palou,10,13,100,6701.399,100,Running,96.696,2,32,12,298,Street Course
-1,stpetersburg,5,Felix Rosenqvist,60,2,100,6703.9998,100,Running,96.659,2,30,10,292,Street Course
-1,stpetersburg,6,Alexander Rossi,7,15,100,6705.3807,100,Running,96.639,2,28,8,266,Street Course
-1,stpetersburg,7,Scott Dixon,9,11,100,6705.8918,100,Running,96.631,2,26,6,260,Street Course
-1,stpetersburg,8,Rinus VeeKay,21,7,100,6708.43,100,Running,96.595,2,24,4,254,Street Course
-1,stpetersburg,9,Santino Ferrucci,14,14,100,6712.6391,100,Running,96.534,2,22,2,237,Street Course
-1,stpetersburg,10,Kyle Kirkwood,27,18,100,6714.183,100,Running,96.512,2,20,1,223,Street Course
-1,stpetersburg,11,Callum Ilott,6,16,100,6718.3067,100,Running,96.453,2,19,0,215,Street Course
-1,stpetersburg,12,Kyffin Simpson,4,23,100,6719.1616,100,Running,96.441,2,18,0,198,Street Course
-1,stpetersburg,13,Pietro Fittipaldi,30,26,100,6722.4129,100,Running,96.394,2,17,0,185,Street Course
-1,stpetersburg,14,Graham Rahal,15,22,100,6724.2909,100,Running,96.367,3,16,0,179,Street Course
-1,stpetersburg,15,Tom Blomqvist,66,17,100,6730.068,100,Running,96.284,2,15,0,174,Street Course
-1,stpetersburg,16,Agustin Canapino,78,20,100,6731.7201,100,Running,96.261,2,14,0,161,Street Course
-1,stpetersburg,17,Jack Harvey,18,27,100,6738.9407,100,Running,96.158,2,13,0,144,Street Course
-1,stpetersburg,18,Christian Lundgaard,45,12,100,6748.3301,100,Running,96.024,3,13,0,149,Street Course
-1,stpetersburg,19,Christian Rasmussen,20,21,99,6741.5301,99,Running,95.159,2,11,0,130,Street Course
-1,stpetersburg,20,Colin Braun,51,25,99,6747.0026,99,Running,95.082,2,10,0,116,Street Course
-1,stpetersburg,21,Linus Lundqvist,8,19,97,6747.7687,97,Running,93.151,2,9,0,112,Street Course
-1,stpetersburg,22,Romain Grosjean,77,5,82,5609.495,82,Mechanical,94.725,2,8,0,116,Street Course
-1,stpetersburg,23,Marcus Ericsson,28,6,52,3575.2774,52,Mechanical,94.247,1,7,0,105,Street Course
-1,stpetersburg,24,Sting Ray Robb,41,24,33,2237.3009,33,Off course,95.579,1,6,0,77,Street Course
-1,stpetersburg,25,Marcus Armstrong,11,10,25,1567.8934,25,Contact,103.323,0,5,0,81,Street Course
+1,stpetersburg,1,Pato O'Ward,5,3,100,6697.5075,0,Running,96.752,2,50,25,380,Street Course
+1,stpetersburg,2,Will Power,12,8,100,6698.6513,0,Running,96.736,2,30,18,343,Street Course
+1,stpetersburg,3,Colton Herta,26,4,100,6699.8532,1,Running,96.719,2,36,15,328,Street Course
+1,stpetersburg,4,Alex Palou,10,13,100,6701.399,0,Running,96.696,2,32,12,298,Street Course
+1,stpetersburg,5,Felix Rosenqvist,60,2,100,6703.9998,0,Running,96.659,2,30,10,292,Street Course
+1,stpetersburg,6,Alexander Rossi,7,15,100,6705.3807,0,Running,96.639,2,28,8,266,Street Course
+1,stpetersburg,7,Scott Dixon,9,11,100,6705.8918,0,Running,96.631,2,26,6,260,Street Course
+1,stpetersburg,8,Rinus VeeKay,21,7,100,6708.43,0,Running,96.595,2,24,4,254,Street Course
+1,stpetersburg,9,Santino Ferrucci,14,14,100,6712.6391,0,Running,96.534,2,22,2,237,Street Course
+1,stpetersburg,10,Kyle Kirkwood,27,18,100,6714.183,0,Running,96.512,2,20,1,223,Street Course
+1,stpetersburg,11,Callum Ilott,6,16,100,6718.3067,0,Running,96.453,2,19,0,215,Street Course
+1,stpetersburg,12,Kyffin Simpson,4,23,100,6719.1616,0,Running,96.441,2,18,0,198,Street Course
+1,stpetersburg,13,Pietro Fittipaldi,30,26,100,6722.4129,0,Running,96.394,2,17,0,185,Street Course
+1,stpetersburg,14,Graham Rahal,15,22,100,6724.2909,0,Running,96.367,3,16,0,179,Street Course
+1,stpetersburg,15,Tom Blomqvist,66,17,100,6730.068,0,Running,96.284,2,15,0,174,Street Course
+1,stpetersburg,16,Agustin Canapino,78,20,100,6731.7201,0,Running,96.261,2,14,0,161,Street Course
+1,stpetersburg,17,Jack Harvey,18,27,100,6738.9407,0,Running,96.158,2,13,0,144,Street Course
+1,stpetersburg,18,Christian Lundgaard,45,12,100,6748.3301,7,Running,96.024,3,13,0,149,Street Course
+1,stpetersburg,19,Christian Rasmussen,20,21,99,6741.5301,0,Running,95.159,2,11,0,130,Street Course
+1,stpetersburg,20,Colin Braun,51,25,99,6747.0026,0,Running,95.082,2,10,0,116,Street Course
+1,stpetersburg,21,Linus Lundqvist,8,19,97,6747.7687,0,Running,93.151,2,9,0,112,Street Course
+1,stpetersburg,22,Romain Grosjean,77,5,82,5609.495,0,Mechanical,94.725,2,8,0,116,Street Course
+1,stpetersburg,23,Marcus Ericsson,28,6,52,3575.2774,0,Mechanical,94.247,1,7,0,105,Street Course
+1,stpetersburg,24,Sting Ray Robb,41,24,33,2237.3009,0,Off course,95.579,1,6,0,77,Street Course
+1,stpetersburg,25,Marcus Armstrong,11,10,25,1567.8934,0,Contact,103.323,0,5,0,81,Street Course
 1,stpetersburg,26,Josef Newgarden,2,1,0,0.0,0,DSQ,0.000,0,1,0,85,Street Course
 1,stpetersburg,27,Scott McLaughlin,3,9,0,0.7207,0,DSQ,0.000,0,0,0,62,Street Course
-14,portland,1,Will Power,12,2,110,6934.1948,110,Running,112.161,3,53,25,382,Road Course
-14,portland,2,Alex Palou,10,3,110,6944.0215,110,Running,112.002,3,41,18,350,Road Course
-14,portland,3,Josef Newgarden,2,5,110,6957.3994,110,Running,111.787,3,36,15,326,Road Course
-14,portland,4,Colton Herta,26,8,110,6971.2987,110,Running,111.564,3,33,12,303,Road Course
-14,portland,5,Marcus Armstrong,11,7,110,6972.2282,110,Running,111.549,3,31,10,284,Road Course
-14,portland,6,Marcus Ericsson,28,10,110,6974.9635,110,Running,111.505,3,28,8,271,Road Course
-14,portland,7,Scott McLaughlin,3,20,110,6976.5446,110,Running,111.480,3,26,6,251,Road Course
-14,portland,8,Santino Ferrucci,14,1,110,6979.0504,110,Running,111.440,3,25,4,265,Road Course
-14,portland,9,Graham Rahal,15,12,110,6983.7759,110,Running,111.364,3,22,2,239,Road Course
-14,portland,10,Kyle Kirkwood,27,11,110,6985.1935,110,Running,111.342,3,20,1,230,Road Course
-14,portland,11,Rinus VeeKay,21,14,110,6986.3708,110,Running,111.323,3,19,0,217,Road Course
-14,portland,12,Alexander Rossi,7,17,110,6986.6927,110,Running,111.318,3,18,0,204,Road Course
-14,portland,13,Christian Lundgaard,45,4,110,6989.6915,110,Running,111.270,3,17,0,208,Road Course
-14,portland,14,Felix Rosenqvist,60,18,110,6990.9554,110,Running,111.250,3,16,0,183,Road Course
-14,portland,15,Pato O'Ward,5,22,110,6992.5878,110,Running,111.224,3,15,0,169,Road Course
-14,portland,16,Kyffin Simpson,4,28,110,6993.6799,110,Running,111.207,3,14,0,153,Road Course
-14,portland,17,Toby Sowery,51,19,109,6941.8278,109,Running,111.019,3,13,0,152,Road Course
-14,portland,18,Sting Ray Robb,41,24,109,6950.3948,109,Running,110.882,3,12,0,137,Road Course
-14,portland,19,Juri Vips,75,15,109,6951.5976,109,Running,110.863,3,11,0,136,Road Course
-14,portland,20,David Malukas,66,25,109,6956.2806,109,Running,110.788,3,10,0,116,Road Course
-14,portland,21,Nolan Siegel,6,23,109,6965.2629,109,Running,110.645,4,9,0,108,Road Course
-14,portland,22,Conor Daly,78,26,109,6965.9333,109,Running,110.635,3,8,0,95,Road Course
-14,portland,23,Linus Lundqvist,8,21,109,6966.0097,109,Running,110.633,4,7,0,90,Road Course
-14,portland,24,Jack Harvey,18,27,109,6968.9787,109,Running,110.586,3,6,0,74,Road Course
-14,portland,25,Pietro Fittipaldi,30,13,109,6970.6786,109,Running,110.559,3,5,0,78,Road Course
-14,portland,26,Christian Rasmussen,20,16,108,6947.724,108,Running,109.907,3,5,0,65,Road Course
-14,portland,27,Romain Grosjean,77,6,107,6945.8508,107,Running,108.919,4,5,0,65,Road Course
+14,portland,1,Will Power,12,2,110,6934.1948,101,Running,112.161,3,53,25,382,Road Course
+14,portland,2,Alex Palou,10,3,110,6944.0215,3,Running,112.002,3,41,18,350,Road Course
+14,portland,3,Josef Newgarden,2,5,110,6957.3994,1,Running,111.787,3,36,15,326,Road Course
+14,portland,4,Colton Herta,26,8,110,6971.2987,4,Running,111.564,3,33,12,303,Road Course
+14,portland,5,Marcus Armstrong,11,7,110,6972.2282,1,Running,111.549,3,31,10,284,Road Course
+14,portland,6,Marcus Ericsson,28,10,110,6974.9635,0,Running,111.505,3,28,8,271,Road Course
+14,portland,7,Scott McLaughlin,3,20,110,6976.5446,0,Running,111.480,3,26,6,251,Road Course
+14,portland,8,Santino Ferrucci,14,1,110,6979.0504,0,Running,111.440,3,25,4,265,Road Course
+14,portland,9,Graham Rahal,15,12,110,6983.7759,0,Running,111.364,3,22,2,239,Road Course
+14,portland,10,Kyle Kirkwood,27,11,110,6985.1935,0,Running,111.342,3,20,1,230,Road Course
+14,portland,11,Rinus VeeKay,21,14,110,6986.3708,0,Running,111.323,3,19,0,217,Road Course
+14,portland,12,Alexander Rossi,7,17,110,6986.6927,0,Running,111.318,3,18,0,204,Road Course
+14,portland,13,Christian Lundgaard,45,4,110,6989.6915,0,Running,111.270,3,17,0,208,Road Course
+14,portland,14,Felix Rosenqvist,60,18,110,6990.9554,0,Running,111.250,3,16,0,183,Road Course
+14,portland,15,Pato O'Ward,5,22,110,6992.5878,0,Running,111.224,3,15,0,169,Road Course
+14,portland,16,Kyffin Simpson,4,28,110,6993.6799,0,Running,111.207,3,14,0,153,Road Course
+14,portland,17,Toby Sowery,51,19,109,6941.8278,0,Running,111.019,3,13,0,152,Road Course
+14,portland,18,Sting Ray Robb,41,24,109,6950.3948,0,Running,110.882,3,12,0,137,Road Course
+14,portland,19,Juri Vips,75,15,109,6951.5976,0,Running,110.863,3,11,0,136,Road Course
+14,portland,20,David Malukas,66,25,109,6956.2806,0,Running,110.788,3,10,0,116,Road Course
+14,portland,21,Nolan Siegel,6,23,109,6965.2629,0,Running,110.645,4,9,0,108,Road Course
+14,portland,22,Conor Daly,78,26,109,6965.9333,0,Running,110.635,3,8,0,95,Road Course
+14,portland,23,Linus Lundqvist,8,21,109,6966.0097,0,Running,110.633,4,7,0,90,Road Course
+14,portland,24,Jack Harvey,18,27,109,6968.9787,0,Running,110.586,3,6,0,74,Road Course
+14,portland,25,Pietro Fittipaldi,30,13,109,6970.6786,0,Running,110.559,3,5,0,78,Road Course
+14,portland,26,Christian Rasmussen,20,16,108,6947.724,0,Running,109.907,3,5,0,65,Road Course
+14,portland,27,Romain Grosjean,77,6,107,6945.8508,0,Running,108.919,4,5,0,65,Road Course
 14,portland,28,Scott Dixon,9,9,0,0.9315,0,Contact,0.000,0,5,0,52,Road Course
-9,midohio,1,Pato O'Ward,5,2,80,5602.6191,80,Running,116.071,2,51,25,382,Road Course
-9,midohio,2,Alex Palou,10,1,80,5603.1184,80,Running,116.061,2,44,18,355,Road Course
-9,midohio,3,Scott McLaughlin,3,6,80,5618.7749,80,Running,115.738,2,36,15,325,Road Course
-9,midohio,4,Colton Herta,26,4,80,5627.4916,80,Running,115.558,2,32,12,308,Road Course
-9,midohio,5,Marcus Ericsson,28,5,80,5634.3,80,Running,115.419,2,30,10,286,Road Course
-9,midohio,6,Alexander Rossi,7,7,80,5634.8634,80,Running,115.407,2,28,8,274,Road Course
-9,midohio,7,Christian Lundgaard,45,9,80,5635.1905,80,Running,115.401,2,26,6,262,Road Course
-9,midohio,8,Kyle Kirkwood,27,14,80,5637.8409,80,Running,115.346,2,24,4,247,Road Course
-9,midohio,9,Christian Rasmussen,20,8,80,5642.9373,80,Running,115.242,2,22,2,243,Road Course
-9,midohio,10,Santino Ferrucci,14,21,80,5649.5275,80,Running,115.108,2,20,1,220,Road Course
-9,midohio,11,Will Power,12,15,80,5651.2737,80,Running,115.072,2,19,0,216,Road Course
-9,midohio,12,David Malukas,66,3,80,5652.0097,80,Running,115.057,2,18,0,220,Road Course
-9,midohio,13,Toby Sowery,51,24,80,5652.5057,80,Running,115.047,2,17,0,187,Road Course
-9,midohio,14,Felix Rosenqvist,60,19,80,5654.4353,80,Running,115.008,3,16,0,182,Road Course
-9,midohio,15,Linus Lundqvist,8,10,80,5656.0985,80,Running,114.974,3,15,0,181,Road Course
-9,midohio,16,Sting Ray Robb,41,25,80,5657.3604,80,Running,114.948,2,14,0,156,Road Course
-9,midohio,17,Marcus Armstrong,11,11,80,5658.459,80,Running,114.926,3,13,0,160,Road Course
-9,midohio,18,Graham Rahal,15,18,80,5661.4872,80,Running,114.865,3,12,0,143,Road Course
-9,midohio,19,Rinus VeeKay,21,20,80,5663.0741,80,Running,114.832,3,11,0,131,Road Course
-9,midohio,20,Nolan Siegel,6,16,80,5668.4782,80,Running,114.723,3,10,0,125,Road Course
-9,midohio,21,Kyffin Simpson,4,23,80,5669.6604,80,Running,114.699,3,9,0,108,Road Course
-9,midohio,22,Agustin Canapino,78,22,79,5605.8966,79,Running,114.554,2,8,0,99,Road Course
-9,midohio,23,Romain Grosjean,77,12,79,5613.1085,79,Running,114.406,2,7,0,99,Road Course
-9,midohio,24,Pietro Fittipaldi,30,27,79,5615.6225,79,Running,114.355,3,6,0,74,Road Course
-9,midohio,25,Josef Newgarden,2,17,79,5621.0299,79,Running,114.245,3,5,0,74,Road Course
-9,midohio,26,Jack Harvey,18,26,79,5645.1083,79,Running,113.758,2,5,0,55,Road Course
-9,midohio,27,Scott Dixon,9,13,40,4378.792,40,Mechanical,74.256,1,5,0,58,Road Course
-5,indy500,1,Josef Newgarden,2,3,200,10729.4079,200,Running,167.763,5,61,25,380,Oval
-5,indy500,2,Pato O'Ward,5,8,200,10729.7496,200,Running,167.758,6,46,18,343,Oval
-5,indy500,3,Scott Dixon,9,21,200,10730.3176,200,Running,167.749,6,36,15,310,Oval
-5,indy500,4,Alexander Rossi,7,4,200,10730.577,200,Running,167.745,5,42,12,308,Oval
-5,indy500,5,Alex Palou,10,14,200,10730.9158,200,Running,167.740,5,31,10,277,Oval
-5,indy500,6,Scott McLaughlin,3,1,200,10731.4672,200,Running,167.731,5,43,8,285,Oval
-5,indy500,7,Kyle Kirkwood,27,11,200,10731.9458,200,Running,167.724,6,29,6,260,Oval
-5,indy500,8,Santino Ferrucci,14,6,200,10733.0222,200,Running,167.707,5,32,4,255,Oval
-5,indy500,9,Rinus VeeKay,21,7,200,10733.3639,200,Running,167.701,5,29,2,244,Oval
-5,indy500,10,Conor Daly,24,29,200,10734.015,200,Running,167.691,6,21,1,212,Oval
-5,indy500,11,Callum Ilott,6,15,200,10734.3731,200,Running,167.686,7,20,0,216,Oval
-5,indy500,12,Christian Rasmussen,33,24,200,10734.7313,200,Running,167.680,6,18,0,197,Oval
-5,indy500,13,Christian Lundgaard,45,28,200,10735.5903,200,Running,167.667,7,18,0,183,Oval
-5,indy500,14,Takuma Sato,75,10,200,10736.0972,200,Running,167.659,6,19,0,191,Oval
-5,indy500,15,Graham Rahal,15,33,200,10736.7687,200,Running,167.648,7,15,0,160,Oval
-5,indy500,16,Sting Ray Robb,41,23,200,10737.9177,200,Running,167.630,5,15,0,158,Oval
-5,indy500,17,Ed Carpenter,20,17,200,10738.316,200,Running,167.624,6,14,0,154,Oval
-5,indy500,18,Kyle Larson,17,5,200,10738.8925,200,Running,167.615,6,21,0,156,Oval
-5,indy500,19,Romain Grosjean,77,26,200,10739.2391,200,Running,167.610,7,11,0,125,Oval
-5,indy500,20,Helio Castroneves,06,20,200,10739.7681,200,Running,167.601,5,10,0,121,Oval
-5,indy500,21,Kyffin Simpson,4,18,200,10740.501,200,Running,167.590,8,10,0,113,Oval
-5,indy500,22,Agustin Canapino,78,22,199,10732.6079,199,Running,166.875,6,8,0,99,Oval
-5,indy500,23,Colton Herta,26,13,170,10229.6118,170,Contact,149.566,4,7,0,98,Oval
-5,indy500,24,Will Power,12,2,145,8017.2524,145,Contact,162.774,4,17,0,102,Oval
-5,indy500,25,Marco Andretti,98,19,113,6452.7638,113,Contact,157.607,5,5,0,72,Oval
-5,indy500,26,Ryan Hunter-Reay,23,12,107,5996.0999,107,Contact,160.604,4,6,0,69,Oval
-5,indy500,27,Felix Rosenqvist,60,9,55,3119.8657,55,Mechanical,158.661,1,9,0,62,Oval
-5,indy500,28,Linus Lundqvist,8,27,27,1769.7195,27,Contact,137.310,2,5,0,34,Oval
-5,indy500,29,Katherine Legge,51,31,22,1852.8001,22,Mechanical,106.865,1,5,0,20,Oval
-5,indy500,30,Marcus Armstrong,11,16,6,627.1741,6,Mechanical,86.100,0,5,0,25,Oval
+9,midohio,1,Pato O'Ward,5,2,80,5602.6191,24,Running,116.071,2,51,25,382,Road Course
+9,midohio,2,Alex Palou,10,1,80,5603.1184,53,Running,116.061,2,44,18,355,Road Course
+9,midohio,3,Scott McLaughlin,3,6,80,5618.7749,3,Running,115.738,2,36,15,325,Road Course
+9,midohio,4,Colton Herta,26,4,80,5627.4916,0,Running,115.558,2,32,12,308,Road Course
+9,midohio,5,Marcus Ericsson,28,5,80,5634.3,0,Running,115.419,2,30,10,286,Road Course
+9,midohio,6,Alexander Rossi,7,7,80,5634.8634,0,Running,115.407,2,28,8,274,Road Course
+9,midohio,7,Christian Lundgaard,45,9,80,5635.1905,0,Running,115.401,2,26,6,262,Road Course
+9,midohio,8,Kyle Kirkwood,27,14,80,5637.8409,0,Running,115.346,2,24,4,247,Road Course
+9,midohio,9,Christian Rasmussen,20,8,80,5642.9373,0,Running,115.242,2,22,2,243,Road Course
+9,midohio,10,Santino Ferrucci,14,21,80,5649.5275,0,Running,115.108,2,20,1,220,Road Course
+9,midohio,11,Will Power,12,15,80,5651.2737,0,Running,115.072,2,19,0,216,Road Course
+9,midohio,12,David Malukas,66,3,80,5652.0097,0,Running,115.057,2,18,0,220,Road Course
+9,midohio,13,Toby Sowery,51,24,80,5652.5057,0,Running,115.047,2,17,0,187,Road Course
+9,midohio,14,Felix Rosenqvist,60,19,80,5654.4353,0,Running,115.008,3,16,0,182,Road Course
+9,midohio,15,Linus Lundqvist,8,10,80,5656.0985,0,Running,114.974,3,15,0,181,Road Course
+9,midohio,16,Sting Ray Robb,41,25,80,5657.3604,0,Running,114.948,2,14,0,156,Road Course
+9,midohio,17,Marcus Armstrong,11,11,80,5658.459,0,Running,114.926,3,13,0,160,Road Course
+9,midohio,18,Graham Rahal,15,18,80,5661.4872,0,Running,114.865,3,12,0,143,Road Course
+9,midohio,19,Rinus VeeKay,21,20,80,5663.0741,0,Running,114.832,3,11,0,131,Road Course
+9,midohio,20,Nolan Siegel,6,16,80,5668.4782,0,Running,114.723,3,10,0,125,Road Course
+9,midohio,21,Kyffin Simpson,4,23,80,5669.6604,0,Running,114.699,3,9,0,108,Road Course
+9,midohio,22,Agustin Canapino,78,22,79,5605.8966,0,Running,114.554,2,8,0,99,Road Course
+9,midohio,23,Romain Grosjean,77,12,79,5613.1085,0,Running,114.406,2,7,0,99,Road Course
+9,midohio,24,Pietro Fittipaldi,30,27,79,5615.6225,0,Running,114.355,3,6,0,74,Road Course
+9,midohio,25,Josef Newgarden,2,17,79,5621.0299,0,Running,114.245,3,5,0,74,Road Course
+9,midohio,26,Jack Harvey,18,26,79,5645.1083,0,Running,113.758,2,5,0,55,Road Course
+9,midohio,27,Scott Dixon,9,13,40,4378.792,0,Mechanical,74.256,1,5,0,58,Road Course
+5,indy500,1,Josef Newgarden,2,3,200,10729.4079,26,Running,167.763,5,61,25,380,Oval
+5,indy500,2,Pato O'Ward,5,8,200,10729.7496,11,Running,167.758,6,46,18,343,Oval
+5,indy500,3,Scott Dixon,9,21,200,10730.3176,12,Running,167.749,6,36,15,310,Oval
+5,indy500,4,Alexander Rossi,7,4,200,10730.577,12,Running,167.745,5,42,12,308,Oval
+5,indy500,5,Alex Palou,10,14,200,10730.9158,1,Running,167.740,5,31,10,277,Oval
+5,indy500,6,Scott McLaughlin,3,1,200,10731.4672,66,Running,167.731,5,43,8,285,Oval
+5,indy500,7,Kyle Kirkwood,27,11,200,10731.9458,2,Running,167.724,6,29,6,260,Oval
+5,indy500,8,Santino Ferrucci,14,6,200,10733.0222,1,Running,167.707,5,32,4,255,Oval
+5,indy500,9,Rinus VeeKay,21,7,200,10733.3639,8,Running,167.701,5,29,2,244,Oval
+5,indy500,10,Conor Daly,24,29,200,10734.015,22,Running,167.691,6,21,1,212,Oval
+5,indy500,11,Callum Ilott,6,15,200,10734.3731,1,Running,167.686,7,20,0,216,Oval
+5,indy500,12,Christian Rasmussen,33,24,200,10734.7313,0,Running,167.680,6,18,0,197,Oval
+5,indy500,13,Christian Lundgaard,45,28,200,10735.5903,5,Running,167.667,7,18,0,183,Oval
+5,indy500,14,Takuma Sato,75,10,200,10736.0972,0,Running,167.659,6,19,0,191,Oval
+5,indy500,15,Graham Rahal,15,33,200,10736.7687,0,Running,167.648,7,15,0,160,Oval
+5,indy500,16,Sting Ray Robb,41,23,200,10737.9177,23,Running,167.630,5,15,0,158,Oval
+5,indy500,17,Ed Carpenter,20,17,200,10738.316,3,Running,167.624,6,14,0,154,Oval
+5,indy500,18,Kyle Larson,17,5,200,10738.8925,4,Running,167.615,6,21,0,156,Oval
+5,indy500,19,Romain Grosjean,77,26,200,10739.2391,0,Running,167.610,7,11,0,125,Oval
+5,indy500,20,Helio Castroneves,06,20,200,10739.7681,0,Running,167.601,5,10,0,121,Oval
+5,indy500,21,Kyffin Simpson,4,18,200,10740.501,3,Running,167.590,8,10,0,113,Oval
+5,indy500,22,Agustin Canapino,78,22,199,10732.6079,0,Running,166.875,6,8,0,99,Oval
+5,indy500,23,Colton Herta,26,13,170,10229.6118,0,Contact,149.566,4,7,0,98,Oval
+5,indy500,24,Will Power,12,2,145,8017.2524,0,Contact,162.774,4,17,0,102,Oval
+5,indy500,25,Marco Andretti,98,19,113,6452.7638,0,Contact,157.607,5,5,0,72,Oval
+5,indy500,26,Ryan Hunter-Reay,23,12,107,5996.0999,0,Contact,160.604,4,6,0,69,Oval
+5,indy500,27,Felix Rosenqvist,60,9,55,3119.8657,0,Mechanical,158.661,1,9,0,62,Oval
+5,indy500,28,Linus Lundqvist,8,27,27,1769.7195,0,Contact,137.310,2,5,0,34,Oval
+5,indy500,29,Katherine Legge,51,31,22,1852.8001,0,Mechanical,106.865,1,5,0,20,Oval
+5,indy500,30,Marcus Armstrong,11,16,6,627.1741,0,Mechanical,86.100,0,5,0,25,Oval
 5,indy500,31,Tom Blomqvist,66,25,0,5.4517,0,Contact,0.000,0,5,0,16,Oval
 5,indy500,32,Pietro Fittipaldi,30,30,0,5.6941,0,Contact,0.000,0,5,0,11,Oval
 5,indy500,33,Marcus Ericsson,28,32,0,5.9281,0,Contact,0.000,0,5,0,10,Oval
-4,indyrc,1,Alex Palou,10,1,85,6327.232,85,Running,117.956,3,54,25,385,Road Course
-4,indyrc,2,Will Power,12,3,85,6333.8426,85,Running,117.833,3,40,18,350,Road Course
-4,indyrc,3,Christian Lundgaard,45,2,85,6335.322,85,Running,117.805,3,36,15,332,Road Course
-4,indyrc,4,Scott Dixon,9,6,85,6340.6582,85,Running,117.706,3,33,12,305,Road Course
-4,indyrc,5,Marcus Armstrong,11,8,85,6341.1298,85,Running,117.697,3,31,10,283,Road Course
-4,indyrc,6,Scott McLaughlin,3,13,85,6341.5066,85,Running,117.690,3,29,8,268,Road Course
-4,indyrc,7,Colton Herta,26,24,85,6346.0874,85,Running,117.605,3,26,6,247,Road Course
-4,indyrc,8,Alexander Rossi,7,7,85,6347.3958,85,Running,117.581,3,25,4,254,Road Course
-4,indyrc,9,Graham Rahal,15,9,85,6349.3876,85,Running,117.544,3,23,2,242,Road Course
-4,indyrc,10,Felix Rosenqvist,60,10,85,6353.5744,85,Running,117.467,3,20,1,231,Road Course
-4,indyrc,11,Kyle Kirkwood,27,14,85,6354.6892,85,Running,117.446,3,19,0,217,Road Course
-4,indyrc,12,Romain Grosjean,77,23,85,6356.5428,85,Running,117.412,3,18,0,198,Road Course
-4,indyrc,13,Pato O'Ward,5,5,85,6358.4708,85,Running,117.376,3,17,0,206,Road Course
-4,indyrc,14,Pietro Fittipaldi,30,11,85,6359.1192,85,Running,117.364,3,17,0,190,Road Course
-4,indyrc,15,Kyffin Simpson,4,25,85,6359.5215,85,Running,117.357,3,15,0,166,Road Course
-4,indyrc,16,Marcus Ericsson,28,21,85,6361.8902,85,Running,117.313,3,14,0,160,Road Course
-4,indyrc,17,Josef Newgarden,2,4,85,6364.1969,85,Running,117.271,3,13,0,168,Road Course
-4,indyrc,18,Jack Harvey,18,17,85,6365.2444,85,Running,117.251,3,12,0,144,Road Course
-4,indyrc,19,Theo Pourchaire,6,18,85,6365.2999,85,Running,117.250,3,11,0,133,Road Course
-4,indyrc,20,Christian Rasmussen,20,20,85,6366.6539,85,Running,117.225,3,10,0,121,Road Course
-4,indyrc,21,Agustin Canapino,78,15,84,6345.1182,84,Running,116.240,3,9,0,116,Road Course
-4,indyrc,22,Sting Ray Robb,41,27,84,6352.9639,84,Running,116.096,3,8,0,94,Road Course
-4,indyrc,23,Tom Blomqvist,66,26,84,6355.0611,84,Running,116.058,3,7,0,85,Road Course
-4,indyrc,24,Linus Lundqvist,8,19,84,6360.9419,84,Running,115.950,3,6,0,82,Road Course
-4,indyrc,25,Luca Ghiotto,51,22,84,6367.4016,84,Running,115.833,3,5,0,69,Road Course
-4,indyrc,26,Rinus VeeKay,21,12,84,6373.0203,84,Running,115.731,4,5,0,69,Road Course
-4,indyrc,27,Santino Ferrucci,14,16,55,4212.3445,55,Mechanical,114.644,2,5,0,55,Road Course
-15,milwaukee1,1,Pato O'Ward,5,6,250,7381.3451,250,Running,123.758,4,53,25,375,Oval
-15,milwaukee1,2,Will Power,12,5,250,7383.1666,250,Running,123.727,4,41,18,346,Oval
-15,milwaukee1,3,Conor Daly,78,25,250,7383.749,250,Running,123.718,4,35,15,306,Oval
-15,milwaukee1,4,Santino Ferrucci,14,19,250,7398.0349,250,Running,123.479,4,32,12,292,Oval
-15,milwaukee1,5,Alex Palou,10,12,250,7400.053,250,Running,123.445,4,30,10,279,Oval
-15,milwaukee1,6,Linus Lundqvist,8,4,250,7400.5881,250,Running,123.436,4,29,8,278,Oval
-15,milwaukee1,7,Alexander Rossi,7,3,250,7401.6948,250,Running,123.418,4,26,6,270,Oval
-15,milwaukee1,8,Scott McLaughlin,3,1,250,7402.4187,250,Running,123.406,3,26,4,265,Oval
-15,milwaukee1,9,Christian Lundgaard,45,26,250,7402.9163,250,Running,123.397,5,22,2,225,Oval
-15,milwaukee1,10,Scott Dixon,9,17,250,7403.2204,250,Running,123.392,4,20,1,224,Oval
-15,milwaukee1,11,Christian Rasmussen,20,23,250,7404.2568,250,Running,123.375,4,19,0,208,Oval
-15,milwaukee1,12,Kyle Kirkwood,27,15,250,7404.476,250,Running,123.371,4,18,0,206,Oval
-15,milwaukee1,13,Felix Rosenqvist,60,8,250,7407.5759,250,Running,123.320,4,17,0,203,Oval
-15,milwaukee1,14,Rinus VeeKay,21,13,249,7394.629,249,Running,123.041,4,16,0,188,Oval
-15,milwaukee1,15,David Malukas,66,2,249,7401.1244,249,Running,122.933,4,15,0,192,Oval
-15,milwaukee1,16,Jack Harvey,18,14,249,7407.2078,249,Running,122.833,4,14,0,167,Oval
-15,milwaukee1,17,Nolan Siegel,6,24,249,7407.9442,249,Running,122.820,4,13,0,147,Oval
-15,milwaukee1,18,Pietro Fittipaldi,30,27,248,7395.179,248,Running,122.538,4,12,0,134,Oval
-15,milwaukee1,19,Katherine Legge,51,18,248,7399.5467,248,Running,122.466,6,11,0,133,Oval
-15,milwaukee1,20,Graham Rahal,15,21,248,7409.2672,248,Running,122.305,5,10,0,120,Oval
-15,milwaukee1,21,Marcus Armstrong,11,16,247,7382.6933,247,Running,122.251,4,9,0,115,Oval
-15,milwaukee1,22,Colton Herta,26,10,246,7395.9124,246,Running,121.538,6,9,0,111,Oval
-15,milwaukee1,23,Sting Ray Robb,41,20,244,7396.2906,244,Running,120.544,4,7,0,91,Oval
-15,milwaukee1,24,Romain Grosjean,77,9,243,7384.368,243,Running,120.243,5,6,0,92,Oval
-15,milwaukee1,25,Kyffin Simpson,4,22,238,7399.0057,238,Running,117.536,4,5,0,69,Oval
-15,milwaukee1,26,Josef Newgarden,2,11,146,4144.1359,146,Contact,128.732,3,5,0,70,Oval
-15,milwaukee1,27,Marcus Ericsson,28,7,146,4144.2267,146,Contact,128.729,3,5,0,64,Oval
-13,gateway,1,Josef Newgarden,2,3,260,8548.2772,260,Running,136.870,4,51,25,380,Oval
-13,gateway,2,Scott McLaughlin,3,1,260,8550.0032,260,Running,136.842,5,42,18,355,Oval
-13,gateway,3,Linus Lundqvist,8,18,260,8552.0647,260,Running,136.809,5,36,15,313,Oval
-13,gateway,4,Alex Palou,10,16,260,8554.3288,260,Running,136.773,4,32,12,295,Oval
-13,gateway,5,Colton Herta,26,25,260,8554.5418,260,Running,136.769,4,30,10,266,Oval
-13,gateway,6,Felix Rosenqvist,60,11,259,8554.6343,259,Running,136.242,4,28,8,270,Oval
-13,gateway,7,Nolan Siegel,6,20,259,8556.4998,259,Running,136.212,5,27,6,251,Oval
-13,gateway,8,Marcus Armstrong,11,10,259,8558.4123,259,Running,136.182,4,24,4,251,Oval
-13,gateway,9,Sting Ray Robb,41,24,259,8558.8118,259,Running,136.175,4,23,2,227,Oval
-13,gateway,10,Rinus VeeKay,21,12,259,8559.8352,259,Running,136.159,4,20,1,229,Oval
-13,gateway,11,Scott Dixon,9,19,258,8555.1547,258,Running,135.708,5,20,0,212,Oval
-13,gateway,12,Santino Ferrucci,14,17,258,8555.5855,258,Running,135.701,5,18,0,204,Oval
-13,gateway,13,Conor Daly,78,9,258,8560.1843,258,Running,135.628,4,17,0,202,Oval
-13,gateway,14,Pietro Fittipaldi,30,15,258,8563.0743,258,Running,135.582,5,16,0,186,Oval
-13,gateway,15,Christian Lundgaard,45,23,257,8557.6655,257,Running,135.142,5,15,0,168,Oval
-13,gateway,16,Romain Grosjean,77,6,257,8561.2126,257,Running,135.086,5,14,0,175,Oval
-13,gateway,17,Ed Carpenter,20,21,252,8564.9806,252,Running,132.400,9,13,0,150,Oval
-13,gateway,18,Will Power,12,4,250,8015.4985,250,Contact,140.353,4,15,0,158,Oval
-13,gateway,19,Alexander Rossi,7,13,250,8016.2301,250,Contact,140.340,4,12,0,138,Oval
-13,gateway,20,Jack Harvey,18,26,249,8024.4603,249,Contact,139.636,4,10,0,115,Oval
-13,gateway,21,David Malukas,66,2,238,7437.2412,238,Contact,144.005,4,10,0,132,Oval
-13,gateway,22,Kyle Kirkwood,27,5,207,7582.2296,207,Contact,122.853,4,8,0,116,Oval
-13,gateway,23,Graham Rahal,15,14,161,5107.1785,161,Mechanical,141.859,2,8,0,97,Oval
-13,gateway,24,Marcus Ericsson,28,7,151,5100.0321,151,Mechanical,133.234,2,7,0,94,Oval
-13,gateway,25,Kyffin Simpson,4,22,84,2688.6274,84,Contact,140.592,1,5,0,69,Oval
-13,gateway,26,Pato O'Ward,5,8,42,1520.3456,42,Mechanical,124.314,0,5,0,73,Oval
-13,gateway,27,Katherine Legge,51,27,7,200.9005,7,Contact,156.794,0,5,0,44,Oval
-17,nashville,1,Colton Herta,26,9,206,6195.2534,206,Running,159.207,4,51,25,372,Oval
-17,nashville,2,Pato O'Ward,5,7,206,6197.064,206,Running,159.161,4,41,18,344,Oval
-17,nashville,3,Josef Newgarden,2,2,206,6197.2145,206,Running,159.157,4,36,15,332,Oval
-17,nashville,4,Kyle Kirkwood,27,1,206,6199.9709,206,Running,159.086,3,36,12,315,Oval
-17,nashville,5,Scott McLaughlin,3,18,206,6203.0371,206,Running,159.007,4,30,10,273,Oval
-17,nashville,6,Santino Ferrucci,14,14,206,6204.487,206,Running,158.970,4,28,8,267,Oval
-17,nashville,7,Marcus Armstrong,11,12,206,6209.6404,206,Running,158.838,3,26,6,259,Oval
-17,nashville,8,Linus Lundqvist,8,8,206,6209.9053,206,Running,158.831,4,24,4,253,Oval
-17,nashville,9,David Malukas,66,5,206,6210.526,206,Running,158.816,3,23,2,246,Oval
-17,nashville,10,Conor Daly,78,6,205,6198.9149,205,Running,158.341,3,20,1,235,Oval
-17,nashville,11,Alex Palou,10,24,205,6209.5905,205,Running,158.068,4,19,0,207,Oval
-17,nashville,12,Rinus VeeKay,21,10,205,6212.1299,205,Running,158.004,4,18,0,211,Oval
-17,nashville,13,Jack Harvey,18,20,205,6214.0733,205,Running,157.954,3,17,0,191,Oval
-17,nashville,14,Christian Rasmussen,20,25,205,6214.5803,205,Running,157.941,3,16,0,176,Oval
-17,nashville,15,Alexander Rossi,7,26,205,6217.8089,205,Running,157.859,4,16,0,165,Oval
-17,nashville,16,Romain Grosjean,77,13,204,6205.4584,204,Running,157.402,4,14,0,168,Oval
-17,nashville,17,Scott Dixon,9,11,204,6207.809,204,Running,157.342,3,13,0,160,Oval
-17,nashville,18,Nolan Siegel,6,27,204,6209.2187,204,Running,157.307,4,12,0,134,Oval
-17,nashville,19,Christian Lundgaard,45,21,204,6211.25,204,Running,157.255,4,11,0,130,Oval
-17,nashville,20,Sting Ray Robb,41,23,204,6211.4682,204,Running,157.250,3,10,0,118,Oval
-17,nashville,21,Pietro Fittipaldi,30,16,204,6213.6153,204,Running,157.195,5,9,0,115,Oval
-17,nashville,22,Kyffin Simpson,4,17,202,6200.9025,202,Running,155.973,5,8,0,104,Oval
-17,nashville,23,Graham Rahal,15,19,202,6212.0545,202,Running,155.693,4,7,0,92,Oval
-17,nashville,24,Will Power,12,4,198,6204.6827,198,Running,152.792,6,6,0,98,Oval
-17,nashville,25,Marcus Ericsson,28,15,137,4782.934,137,Contact,137.145,3,5,0,76,Oval
-17,nashville,26,Katherine Legge,51,22,85,2589.5186,85,Contact,157.164,2,5,0,59,Oval
-17,nashville,27,Felix Rosenqvist,60,3,55,1392.4834,55,Contact,189.115,0,5,0,70,Oval
-16,milwaukee2,1,Scott McLaughlin,3,2,250,7591.3981,250,Running,120.334,6,53,25,382,Oval
-16,milwaukee2,2,Scott Dixon,9,17,250,7591.8539,250,Running,120.326,5,40,18,334,Oval
-16,milwaukee2,3,Colton Herta,26,18,250,7596.5244,250,Running,120.252,5,36,15,313,Oval
-16,milwaukee2,4,Santino Ferrucci,14,12,250,7602.381,250,Running,120.160,6,33,12,299,Oval
-16,milwaukee2,5,Marcus Ericsson,28,16,250,7605.1066,250,Running,120.117,6,30,10,275,Oval
-16,milwaukee2,6,Alexander Rossi,7,6,250,7605.7286,250,Running,120.107,5,29,8,275,Oval
-16,milwaukee2,7,Rinus VeeKay,21,15,250,7606.5983,250,Running,120.093,5,26,6,256,Oval
-16,milwaukee2,8,Kyle Kirkwood,27,19,250,7606.72,250,Running,120.091,6,24,4,242,Oval
-16,milwaukee2,9,Romain Grosjean,77,14,250,7607.5994,250,Running,120.077,5,22,2,237,Oval
-16,milwaukee2,10,Will Power,12,4,250,7611.2558,250,Running,120.020,7,21,1,238,Oval
-16,milwaukee2,11,Felix Rosenqvist,60,8,249,7613.2242,249,Running,119.509,6,19,0,223,Oval
-16,milwaukee2,12,Christian Lundgaard,45,25,248,7604.7912,248,Running,119.161,6,18,0,196,Oval
-16,milwaukee2,13,Kyffin Simpson,4,24,248,7610.1355,248,Running,119.077,5,17,0,187,Oval
-16,milwaukee2,14,Jack Harvey,18,13,247,7608.2333,247,Running,118.626,4,16,0,188,Oval
-16,milwaukee2,15,Katherine Legge,51,22,246,7611.9006,246,Running,118.089,4,16,0,169,Oval
-16,milwaukee2,16,Christian Rasmussen,20,23,243,7601.004,243,Running,116.816,5,14,0,158,Oval
-16,milwaukee2,17,Conor Daly,78,20,230,7462.7112,230,Retired,112.616,5,13,0,151,Oval
-16,milwaukee2,18,Sting Ray Robb,41,21,221,6783.4362,221,Contact,119.045,4,12,0,140,Oval
-16,milwaukee2,19,Alex Palou,10,10,221,7613.7919,221,Running,106.062,5,11,0,141,Oval
-16,milwaukee2,20,Linus Lundqvist,8,5,215,6522.8478,215,Contact,120.440,4,10,0,136,Oval
-16,milwaukee2,21,Pietro Fittipaldi,30,27,181,5959.4142,181,Mechanical,110.980,4,9,0,104,Oval
-16,milwaukee2,22,David Malukas,66,9,126,7249.3725,126,Mechanical,63.509,2,8,0,112,Oval
-16,milwaukee2,23,Graham Rahal,15,26,123,3891.4228,123,Contact,115.496,3,7,0,85,Oval
-16,milwaukee2,24,Pato O'Ward,5,7,87,2933.1117,87,Mechanical,108.383,1,6,0,94,Oval
-16,milwaukee2,25,Nolan Siegel,6,11,24,1359.9624,24,Mechanical,64.484,0,5,0,80,Oval
-16,milwaukee2,26,Marcus Armstrong,11,3,6,284.6808,6,Contact,77.013,0,5,0,80,Oval
-16,milwaukee2,27,Josef Newgarden,2,1,5,227.4774,5,Contact,80.316,0,7,0,75,Oval
-12,toronto,1,Colton Herta,26,1,85,5968.4293,85,Running,91.568,2,54,25,385,Street Course
-12,toronto,2,Kyle Kirkwood,27,2,85,5968.7762,85,Running,91.562,2,40,18,352,Street Course
-12,toronto,3,Scott Dixon,9,15,85,5969.3973,85,Running,91.553,2,36,15,316,Street Course
-12,toronto,4,Alex Palou,10,18,85,5970.1204,85,Running,91.542,2,32,12,293,Street Course
-12,toronto,5,Marcus Armstrong,11,13,85,5971.2012,85,Running,91.525,2,30,10,278,Street Course
-12,toronto,6,David Malukas,66,6,85,5971.5146,85,Running,91.520,2,28,8,275,Street Course
-12,toronto,7,Christian Lundgaard,45,16,85,5972.3218,85,Running,91.508,2,26,6,255,Street Course
-12,toronto,8,Rinus VeeKay,21,22,85,5973.0639,85,Running,91.497,3,24,4,239,Street Course
-12,toronto,9,Romain Grosjean,77,5,85,5974.083,85,Running,91.481,2,22,2,246,Street Course
-12,toronto,10,Graham Rahal,15,8,85,5974.5749,85,Running,91.474,3,20,1,233,Street Course
-12,toronto,11,Josef Newgarden,2,7,85,5978.9217,85,Running,91.407,3,19,0,224,Street Course
-12,toronto,12,Will Power,12,9,85,5979.9848,85,Running,91.391,2,18,0,212,Street Course
-12,toronto,13,Linus Lundqvist,8,24,84,5975.1306,84,Running,90.389,4,17,0,187,Street Course
-12,toronto,14,Theo Pourchaire,7,26,84,5975.5503,84,Running,90.383,5,16,0,175,Street Course
-12,toronto,15,Toby Sowery,51,21,84,5975.904,84,Running,90.377,3,15,0,170,Street Course
-12,toronto,16,Scott McLaughlin,3,4,76,5290.8618,76,Contact,92.357,2,14,0,178,Street Course
-12,toronto,17,Pato O'Ward,5,14,72,4904.4725,72,Contact,94.390,2,13,0,157,Street Course
-12,toronto,18,Marcus Ericsson,28,11,72,4906.8808,72,Contact,94.343,2,13,0,150,Street Course
-12,toronto,19,Pietro Fittipaldi,30,23,72,4909.6394,72,Contact,94.290,2,11,0,128,Street Course
-12,toronto,20,Santino Ferrucci,14,17,72,4910.1026,72,Contact,94.281,4,10,0,124,Street Course
-12,toronto,21,Nolan Siegel,6,19,72,4910.7316,72,Contact,94.269,3,9,0,112,Street Course
-12,toronto,22,Kyffin Simpson,4,20,66,4442.5914,66,Contact,95.519,2,8,0,101,Street Course
-12,toronto,23,Felix Rosenqvist,60,3,63,4240.7835,63,Mechanical,95.517,2,7,0,110,Street Course
-12,toronto,24,Hunter McElrea,18,25,57,3889.1748,57,Contact,94.233,2,6,0,76,Street Course
-12,toronto,25,Sting Ray Robb,41,27,13,1066.8887,13,Mechanical,78.344,0,5,0,64,Street Course
-12,toronto,26,Agustin Canapino,78,10,4,373.8674,4,Contact,68.790,0,5,0,71,Street Course
+4,indyrc,1,Alex Palou,10,1,85,6327.232,39,Running,117.956,3,54,25,385,Road Course
+4,indyrc,2,Will Power,12,3,85,6333.8426,0,Running,117.833,3,40,18,350,Road Course
+4,indyrc,3,Christian Lundgaard,45,2,85,6335.322,35,Running,117.805,3,36,15,332,Road Course
+4,indyrc,4,Scott Dixon,9,6,85,6340.6582,1,Running,117.706,3,33,12,305,Road Course
+4,indyrc,5,Marcus Armstrong,11,8,85,6341.1298,3,Running,117.697,3,31,10,283,Road Course
+4,indyrc,6,Scott McLaughlin,3,13,85,6341.5066,2,Running,117.690,3,29,8,268,Road Course
+4,indyrc,7,Colton Herta,26,24,85,6346.0874,0,Running,117.605,3,26,6,247,Road Course
+4,indyrc,8,Alexander Rossi,7,7,85,6347.3958,1,Running,117.581,3,25,4,254,Road Course
+4,indyrc,9,Graham Rahal,15,9,85,6349.3876,2,Running,117.544,3,23,2,242,Road Course
+4,indyrc,10,Felix Rosenqvist,60,10,85,6353.5744,0,Running,117.467,3,20,1,231,Road Course
+4,indyrc,11,Kyle Kirkwood,27,14,85,6354.6892,0,Running,117.446,3,19,0,217,Road Course
+4,indyrc,12,Romain Grosjean,77,23,85,6356.5428,0,Running,117.412,3,18,0,198,Road Course
+4,indyrc,13,Pato O'Ward,5,5,85,6358.4708,0,Running,117.376,3,17,0,206,Road Course
+4,indyrc,14,Pietro Fittipaldi,30,11,85,6359.1192,2,Running,117.364,3,17,0,190,Road Course
+4,indyrc,15,Kyffin Simpson,4,25,85,6359.5215,0,Running,117.357,3,15,0,166,Road Course
+4,indyrc,16,Marcus Ericsson,28,21,85,6361.8902,0,Running,117.313,3,14,0,160,Road Course
+4,indyrc,17,Josef Newgarden,2,4,85,6364.1969,0,Running,117.271,3,13,0,168,Road Course
+4,indyrc,18,Jack Harvey,18,17,85,6365.2444,0,Running,117.251,3,12,0,144,Road Course
+4,indyrc,19,Theo Pourchaire,6,18,85,6365.2999,0,Running,117.250,3,11,0,133,Road Course
+4,indyrc,20,Christian Rasmussen,20,20,85,6366.6539,0,Running,117.225,3,10,0,121,Road Course
+4,indyrc,21,Agustin Canapino,78,15,84,6345.1182,0,Running,116.240,3,9,0,116,Road Course
+4,indyrc,22,Sting Ray Robb,41,27,84,6352.9639,0,Running,116.096,3,8,0,94,Road Course
+4,indyrc,23,Tom Blomqvist,66,26,84,6355.0611,0,Running,116.058,3,7,0,85,Road Course
+4,indyrc,24,Linus Lundqvist,8,19,84,6360.9419,0,Running,115.950,3,6,0,82,Road Course
+4,indyrc,25,Luca Ghiotto,51,22,84,6367.4016,0,Running,115.833,3,5,0,69,Road Course
+4,indyrc,26,Rinus VeeKay,21,12,84,6373.0203,0,Running,115.731,4,5,0,69,Road Course
+4,indyrc,27,Santino Ferrucci,14,16,55,4212.3445,0,Mechanical,114.644,2,5,0,55,Road Course
+15,milwaukee1,1,Pato O'Ward,5,6,250,7381.3451,133,Running,123.758,4,53,25,375,Oval
+15,milwaukee1,2,Will Power,12,5,250,7383.1666,9,Running,123.727,4,41,18,346,Oval
+15,milwaukee1,3,Conor Daly,78,25,250,7383.749,0,Running,123.718,4,35,15,306,Oval
+15,milwaukee1,4,Santino Ferrucci,14,19,250,7398.0349,0,Running,123.479,4,32,12,292,Oval
+15,milwaukee1,5,Alex Palou,10,12,250,7400.053,0,Running,123.445,4,30,10,279,Oval
+15,milwaukee1,6,Linus Lundqvist,8,4,250,7400.5881,19,Running,123.436,4,29,8,278,Oval
+15,milwaukee1,7,Alexander Rossi,7,3,250,7401.6948,0,Running,123.418,4,26,6,270,Oval
+15,milwaukee1,8,Scott McLaughlin,3,1,250,7402.4187,80,Running,123.406,3,26,4,265,Oval
+15,milwaukee1,9,Christian Lundgaard,45,26,250,7402.9163,0,Running,123.397,5,22,2,225,Oval
+15,milwaukee1,10,Scott Dixon,9,17,250,7403.2204,0,Running,123.392,4,20,1,224,Oval
+15,milwaukee1,11,Christian Rasmussen,20,23,250,7404.2568,0,Running,123.375,4,19,0,208,Oval
+15,milwaukee1,12,Kyle Kirkwood,27,15,250,7404.476,0,Running,123.371,4,18,0,206,Oval
+15,milwaukee1,13,Felix Rosenqvist,60,8,250,7407.5759,0,Running,123.320,4,17,0,203,Oval
+15,milwaukee1,14,Rinus VeeKay,21,13,249,7394.629,0,Running,123.041,4,16,0,188,Oval
+15,milwaukee1,15,David Malukas,66,2,249,7401.1244,0,Running,122.933,4,15,0,192,Oval
+15,milwaukee1,16,Jack Harvey,18,14,249,7407.2078,0,Running,122.833,4,14,0,167,Oval
+15,milwaukee1,17,Nolan Siegel,6,24,249,7407.9442,0,Running,122.820,4,13,0,147,Oval
+15,milwaukee1,18,Pietro Fittipaldi,30,27,248,7395.179,0,Running,122.538,4,12,0,134,Oval
+15,milwaukee1,19,Katherine Legge,51,18,248,7399.5467,0,Running,122.466,6,11,0,133,Oval
+15,milwaukee1,20,Graham Rahal,15,21,248,7409.2672,0,Running,122.305,5,10,0,120,Oval
+15,milwaukee1,21,Marcus Armstrong,11,16,247,7382.6933,0,Running,122.251,4,9,0,115,Oval
+15,milwaukee1,22,Colton Herta,26,10,246,7395.9124,9,Running,121.538,6,9,0,111,Oval
+15,milwaukee1,23,Sting Ray Robb,41,20,244,7396.2906,0,Running,120.544,4,7,0,91,Oval
+15,milwaukee1,24,Romain Grosjean,77,9,243,7384.368,0,Running,120.243,5,6,0,92,Oval
+15,milwaukee1,25,Kyffin Simpson,4,22,238,7399.0057,0,Running,117.536,4,5,0,69,Oval
+15,milwaukee1,26,Josef Newgarden,2,11,146,4144.1359,0,Contact,128.732,3,5,0,70,Oval
+15,milwaukee1,27,Marcus Ericsson,28,7,146,4144.2267,0,Contact,128.729,3,5,0,64,Oval
+13,gateway,1,Josef Newgarden,2,3,260,8548.2772,17,Running,136.870,4,51,25,380,Oval
+13,gateway,2,Scott McLaughlin,3,1,260,8550.0032,67,Running,136.842,5,42,18,355,Oval
+13,gateway,3,Linus Lundqvist,8,18,260,8552.0647,1,Running,136.809,5,36,15,313,Oval
+13,gateway,4,Alex Palou,10,16,260,8554.3288,0,Running,136.773,4,32,12,295,Oval
+13,gateway,5,Colton Herta,26,25,260,8554.5418,0,Running,136.769,4,30,10,266,Oval
+13,gateway,6,Felix Rosenqvist,60,11,259,8554.6343,0,Running,136.242,4,28,8,270,Oval
+13,gateway,7,Nolan Siegel,6,20,259,8556.4998,8,Running,136.212,5,27,6,251,Oval
+13,gateway,8,Marcus Armstrong,11,10,259,8558.4123,0,Running,136.182,4,24,4,251,Oval
+13,gateway,9,Sting Ray Robb,41,24,259,8558.8118,8,Running,136.175,4,23,2,227,Oval
+13,gateway,10,Rinus VeeKay,21,12,259,8559.8352,0,Running,136.159,4,20,1,229,Oval
+13,gateway,11,Scott Dixon,9,19,258,8555.1547,5,Running,135.708,5,20,0,212,Oval
+13,gateway,12,Santino Ferrucci,14,17,258,8555.5855,0,Running,135.701,5,18,0,204,Oval
+13,gateway,13,Conor Daly,78,9,258,8560.1843,0,Running,135.628,4,17,0,202,Oval
+13,gateway,14,Pietro Fittipaldi,30,15,258,8563.0743,0,Running,135.582,5,16,0,186,Oval
+13,gateway,15,Christian Lundgaard,45,23,257,8557.6655,0,Running,135.142,5,15,0,168,Oval
+13,gateway,16,Romain Grosjean,77,6,257,8561.2126,0,Running,135.086,5,14,0,175,Oval
+13,gateway,17,Ed Carpenter,20,21,252,8564.9806,0,Running,132.400,9,13,0,150,Oval
+13,gateway,18,Will Power,12,4,250,8015.4985,117,Contact,140.353,4,15,0,158,Oval
+13,gateway,19,Alexander Rossi,7,13,250,8016.2301,8,Contact,140.340,4,12,0,138,Oval
+13,gateway,20,Jack Harvey,18,26,249,8024.4603,0,Contact,139.636,4,10,0,115,Oval
+13,gateway,21,David Malukas,66,2,238,7437.2412,11,Contact,144.005,4,10,0,132,Oval
+13,gateway,22,Kyle Kirkwood,27,5,207,7582.2296,0,Contact,122.853,4,8,0,116,Oval
+13,gateway,23,Graham Rahal,15,14,161,5107.1785,5,Mechanical,141.859,2,8,0,97,Oval
+13,gateway,24,Marcus Ericsson,28,7,151,5100.0321,13,Mechanical,133.234,2,7,0,94,Oval
+13,gateway,25,Kyffin Simpson,4,22,84,2688.6274,0,Contact,140.592,1,5,0,69,Oval
+13,gateway,26,Pato O'Ward,5,8,42,1520.3456,0,Mechanical,124.314,0,5,0,73,Oval
+13,gateway,27,Katherine Legge,51,27,7,200.9005,0,Contact,156.794,0,5,0,44,Oval
+17,nashville,1,Colton Herta,26,9,206,6195.2534,24,Running,159.207,4,51,25,372,Oval
+17,nashville,2,Pato O'Ward,5,7,206,6197.064,21,Running,159.161,4,41,18,344,Oval
+17,nashville,3,Josef Newgarden,2,2,206,6197.2145,54,Running,159.157,4,36,15,332,Oval
+17,nashville,4,Kyle Kirkwood,27,1,206,6199.9709,67,Running,159.086,3,36,12,315,Oval
+17,nashville,5,Scott McLaughlin,3,18,206,6203.0371,0,Running,159.007,4,30,10,273,Oval
+17,nashville,6,Santino Ferrucci,14,14,206,6204.487,0,Running,158.970,4,28,8,267,Oval
+17,nashville,7,Marcus Armstrong,11,12,206,6209.6404,0,Running,158.838,3,26,6,259,Oval
+17,nashville,8,Linus Lundqvist,8,8,206,6209.9053,0,Running,158.831,4,24,4,253,Oval
+17,nashville,9,David Malukas,66,5,206,6210.526,8,Running,158.816,3,23,2,246,Oval
+17,nashville,10,Conor Daly,78,6,205,6198.9149,0,Running,158.341,3,20,1,235,Oval
+17,nashville,11,Alex Palou,10,24,205,6209.5905,0,Running,158.068,4,19,0,207,Oval
+17,nashville,12,Rinus VeeKay,21,10,205,6212.1299,0,Running,158.004,4,18,0,211,Oval
+17,nashville,13,Jack Harvey,18,20,205,6214.0733,0,Running,157.954,3,17,0,191,Oval
+17,nashville,14,Christian Rasmussen,20,25,205,6214.5803,0,Running,157.941,3,16,0,176,Oval
+17,nashville,15,Alexander Rossi,7,26,205,6217.8089,32,Running,157.859,4,16,0,165,Oval
+17,nashville,16,Romain Grosjean,77,13,204,6205.4584,0,Running,157.402,4,14,0,168,Oval
+17,nashville,17,Scott Dixon,9,11,204,6207.809,0,Running,157.342,3,13,0,160,Oval
+17,nashville,18,Nolan Siegel,6,27,204,6209.2187,0,Running,157.307,4,12,0,134,Oval
+17,nashville,19,Christian Lundgaard,45,21,204,6211.25,0,Running,157.255,4,11,0,130,Oval
+17,nashville,20,Sting Ray Robb,41,23,204,6211.4682,0,Running,157.250,3,10,0,118,Oval
+17,nashville,21,Pietro Fittipaldi,30,16,204,6213.6153,0,Running,157.195,5,9,0,115,Oval
+17,nashville,22,Kyffin Simpson,4,17,202,6200.9025,0,Running,155.973,5,8,0,104,Oval
+17,nashville,23,Graham Rahal,15,19,202,6212.0545,0,Running,155.693,4,7,0,92,Oval
+17,nashville,24,Will Power,12,4,198,6204.6827,0,Running,152.792,6,6,0,98,Oval
+17,nashville,25,Marcus Ericsson,28,15,137,4782.934,0,Contact,137.145,3,5,0,76,Oval
+17,nashville,26,Katherine Legge,51,22,85,2589.5186,0,Contact,157.164,2,5,0,59,Oval
+17,nashville,27,Felix Rosenqvist,60,3,55,1392.4834,0,Contact,189.115,0,5,0,70,Oval
+16,milwaukee2,1,Scott McLaughlin,3,2,250,7591.3981,85,Running,120.334,6,53,25,382,Oval
+16,milwaukee2,2,Scott Dixon,9,17,250,7591.8539,0,Running,120.326,5,40,18,334,Oval
+16,milwaukee2,3,Colton Herta,26,18,250,7596.5244,43,Running,120.252,5,36,15,313,Oval
+16,milwaukee2,4,Santino Ferrucci,14,12,250,7602.381,6,Running,120.160,6,33,12,299,Oval
+16,milwaukee2,5,Marcus Ericsson,28,16,250,7605.1066,0,Running,120.117,6,30,10,275,Oval
+16,milwaukee2,6,Alexander Rossi,7,6,250,7605.7286,46,Running,120.107,5,29,8,275,Oval
+16,milwaukee2,7,Rinus VeeKay,21,15,250,7606.5983,0,Running,120.093,5,26,6,256,Oval
+16,milwaukee2,8,Kyle Kirkwood,27,19,250,7606.72,0,Running,120.091,6,24,4,242,Oval
+16,milwaukee2,9,Romain Grosjean,77,14,250,7607.5994,0,Running,120.077,5,22,2,237,Oval
+16,milwaukee2,10,Will Power,12,4,250,7611.2558,64,Running,120.020,7,21,1,238,Oval
+16,milwaukee2,11,Felix Rosenqvist,60,8,249,7613.2242,0,Running,119.509,6,19,0,223,Oval
+16,milwaukee2,12,Christian Lundgaard,45,25,248,7604.7912,0,Running,119.161,6,18,0,196,Oval
+16,milwaukee2,13,Kyffin Simpson,4,24,248,7610.1355,0,Running,119.077,5,17,0,187,Oval
+16,milwaukee2,14,Jack Harvey,18,13,247,7608.2333,0,Running,118.626,4,16,0,188,Oval
+16,milwaukee2,15,Katherine Legge,51,22,246,7611.9006,2,Running,118.089,4,16,0,169,Oval
+16,milwaukee2,16,Christian Rasmussen,20,23,243,7601.004,0,Running,116.816,5,14,0,158,Oval
+16,milwaukee2,17,Conor Daly,78,20,230,7462.7112,0,Retired,112.616,5,13,0,151,Oval
+16,milwaukee2,18,Sting Ray Robb,41,21,221,6783.4362,0,Contact,119.045,4,12,0,140,Oval
+16,milwaukee2,19,Alex Palou,10,10,221,7613.7919,0,Running,106.062,5,11,0,141,Oval
+16,milwaukee2,20,Linus Lundqvist,8,5,215,6522.8478,0,Contact,120.440,4,10,0,136,Oval
+16,milwaukee2,21,Pietro Fittipaldi,30,27,181,5959.4142,0,Mechanical,110.980,4,9,0,104,Oval
+16,milwaukee2,22,David Malukas,66,9,126,7249.3725,0,Mechanical,63.509,2,8,0,112,Oval
+16,milwaukee2,23,Graham Rahal,15,26,123,3891.4228,0,Contact,115.496,3,7,0,85,Oval
+16,milwaukee2,24,Pato O'Ward,5,7,87,2933.1117,0,Mechanical,108.383,1,6,0,94,Oval
+16,milwaukee2,25,Nolan Siegel,6,11,24,1359.9624,0,Mechanical,64.484,0,5,0,80,Oval
+16,milwaukee2,26,Marcus Armstrong,11,3,6,284.6808,0,Contact,77.013,0,5,0,80,Oval
+16,milwaukee2,27,Josef Newgarden,2,1,5,227.4774,4,Contact,80.316,0,7,0,75,Oval
+12,toronto,1,Colton Herta,26,1,85,5968.4293,81,Running,91.568,2,54,25,385,Street Course
+12,toronto,2,Kyle Kirkwood,27,2,85,5968.7762,0,Running,91.562,2,40,18,352,Street Course
+12,toronto,3,Scott Dixon,9,15,85,5969.3973,3,Running,91.553,2,36,15,316,Street Course
+12,toronto,4,Alex Palou,10,18,85,5970.1204,0,Running,91.542,2,32,12,293,Street Course
+12,toronto,5,Marcus Armstrong,11,13,85,5971.2012,0,Running,91.525,2,30,10,278,Street Course
+12,toronto,6,David Malukas,66,6,85,5971.5146,0,Running,91.520,2,28,8,275,Street Course
+12,toronto,7,Christian Lundgaard,45,16,85,5972.3218,0,Running,91.508,2,26,6,255,Street Course
+12,toronto,8,Rinus VeeKay,21,22,85,5973.0639,0,Running,91.497,3,24,4,239,Street Course
+12,toronto,9,Romain Grosjean,77,5,85,5974.083,0,Running,91.481,2,22,2,246,Street Course
+12,toronto,10,Graham Rahal,15,8,85,5974.5749,0,Running,91.474,3,20,1,233,Street Course
+12,toronto,11,Josef Newgarden,2,7,85,5978.9217,0,Running,91.407,3,19,0,224,Street Course
+12,toronto,12,Will Power,12,9,85,5979.9848,0,Running,91.391,2,18,0,212,Street Course
+12,toronto,13,Linus Lundqvist,8,24,84,5975.1306,0,Running,90.389,4,17,0,187,Street Course
+12,toronto,14,Theo Pourchaire,7,26,84,5975.5503,0,Running,90.383,5,16,0,175,Street Course
+12,toronto,15,Toby Sowery,51,21,84,5975.904,0,Running,90.377,3,15,0,170,Street Course
+12,toronto,16,Scott McLaughlin,3,4,76,5290.8618,0,Contact,92.357,2,14,0,178,Street Course
+12,toronto,17,Pato O'Ward,5,14,72,4904.4725,0,Contact,94.390,2,13,0,157,Street Course
+12,toronto,18,Marcus Ericsson,28,11,72,4906.8808,1,Contact,94.343,2,13,0,150,Street Course
+12,toronto,19,Pietro Fittipaldi,30,23,72,4909.6394,0,Contact,94.290,2,11,0,128,Street Course
+12,toronto,20,Santino Ferrucci,14,17,72,4910.1026,0,Contact,94.281,4,10,0,124,Street Course
+12,toronto,21,Nolan Siegel,6,19,72,4910.7316,0,Contact,94.269,3,9,0,112,Street Course
+12,toronto,22,Kyffin Simpson,4,20,66,4442.5914,0,Contact,95.519,2,8,0,101,Street Course
+12,toronto,23,Felix Rosenqvist,60,3,63,4240.7835,0,Mechanical,95.517,2,7,0,110,Street Course
+12,toronto,24,Hunter McElrea,18,25,57,3889.1748,0,Contact,94.233,2,6,0,76,Street Course
+12,toronto,25,Sting Ray Robb,41,27,13,1066.8887,0,Mechanical,78.344,0,5,0,64,Street Course
+12,toronto,26,Agustin Canapino,78,10,4,373.8674,0,Contact,68.790,0,5,0,71,Street Course
 12,toronto,27,Christian Rasmussen,20,12,0,1.2612,0,Contact,0.000,0,5,0,59,Street Course
-3,barber,1,Scott McLaughlin,3,1,90,7005.7773,90,Running,106.369,3,54,25,385,Road Course
-3,barber,2,Will Power,12,2,90,7007.0967,90,Running,106.349,3,41,18,352,Road Course
-3,barber,3,Linus Lundqvist,8,19,90,7008.2194,90,Running,106.332,3,36,15,312,Road Course
-3,barber,4,Felix Rosenqvist,60,5,90,7010.2882,90,Running,106.301,2,33,12,306,Road Course
-3,barber,5,Alex Palou,10,10,90,7011.1465,90,Running,106.288,2,31,10,281,Road Course
-3,barber,6,Christian Lundgaard,45,3,90,7011.8282,90,Running,106.278,3,28,8,280,Road Course
-3,barber,7,Santino Ferrucci,14,17,90,7012.3828,90,Running,106.269,3,27,6,254,Road Course
-3,barber,8,Colton Herta,26,15,90,7013.2897,90,Running,106.255,2,24,4,246,Road Course
-3,barber,9,Marcus Armstrong,11,6,90,7013.8148,90,Running,106.247,2,22,2,245,Road Course
-3,barber,10,Kyle Kirkwood,27,9,90,7014.3346,90,Running,106.240,2,20,1,232,Road Course
-3,barber,11,Graham Rahal,15,7,90,7014.8061,90,Running,106.232,2,19,0,224,Road Course
-3,barber,12,Romain Grosjean,77,11,90,7015.2268,90,Running,106.226,2,18,0,210,Road Course
-3,barber,13,Jack Harvey,18,22,90,7015.9042,90,Running,106.216,4,17,0,189,Road Course
-3,barber,14,Kyffin Simpson,4,23,90,7016.2188,90,Running,106.211,3,16,0,178,Road Course
-3,barber,15,Scott Dixon,9,13,90,7017.1401,90,Running,106.197,2,15,0,178,Road Course
-3,barber,16,Josef Newgarden,2,8,90,7018.0128,90,Running,106.184,2,14,0,173,Road Course
-3,barber,17,Rinus VeeKay,21,27,90,7019.2865,90,Running,106.165,3,13,0,144,Road Course
-3,barber,18,Marcus Ericsson,28,18,90,7019.621,90,Running,106.160,2,12,0,143,Road Course
-3,barber,19,Tom Blomqvist,66,12,90,7020.3524,90,Running,106.149,3,11,0,139,Road Course
-3,barber,20,Agustin Canapino,78,20,90,7020.458,90,Running,106.147,3,10,0,121,Road Course
-3,barber,21,Luca Ghiotto,51,21,90,7021.4582,90,Running,106.132,4,9,0,110,Road Course
-3,barber,22,Theo Pourchaire,6,24,89,6947.6985,89,Running,106.067,3,8,0,97,Road Course
-3,barber,23,Pato O'Ward,5,4,90,7022.2234,90,Running,106.120,3,7,0,108,Road Course
-3,barber,24,Christian Rasmussen,20,14,89,7023.5045,89,Running,104.922,3,6,0,87,Road Course
-3,barber,25,Alexander Rossi,7,16,60,6038.7103,60,Mechanical,82.269,2,5,0,75,Road Course
-3,barber,26,Sting Ray Robb,41,25,54,4199.8639,54,Contact,106.461,2,5,0,56,Road Course
-3,barber,27,Pietro Fittipaldi,30,26,42,6141.7871,42,Contact,56.622,2,5,0,45,Road Course
-8,lagunaseca,1,Alex Palou,10,1,95,7449.8545,95,Running,102.740,3,54,25,385,Road Course
-8,lagunaseca,2,Colton Herta,26,4,95,7451.8325,95,Running,102.712,3,41,18,348,Road Course
-8,lagunaseca,3,Alexander Rossi,7,5,95,7454.3681,95,Running,102.678,3,36,15,326,Road Course
-8,lagunaseca,4,Romain Grosjean,77,8,95,7454.6788,95,Running,102.673,3,32,12,303,Road Course
-8,lagunaseca,5,Kyle Kirkwood,27,2,95,7458.5313,95,Running,102.620,3,31,10,292,Road Course
-8,lagunaseca,6,Scott Dixon,9,10,95,7459.0049,95,Running,102.614,3,28,8,271,Road Course
-8,lagunaseca,7,Will Power,12,15,95,7459.8509,95,Running,102.602,3,26,6,256,Road Course
-8,lagunaseca,8,Pato O'Ward,5,9,95,7460.4759,95,Running,102.593,3,24,4,252,Road Course
-8,lagunaseca,9,Santino Ferrucci,14,17,95,7460.857,95,Running,102.588,3,22,2,234,Road Course
-8,lagunaseca,10,Marcus Ericsson,28,18,95,7461.4943,95,Running,102.579,3,20,1,223,Road Course
-8,lagunaseca,11,Felix Rosenqvist,60,3,95,7462.5633,95,Running,102.565,3,19,0,230,Road Course
-8,lagunaseca,12,Nolan Siegel,6,23,95,7462.985,95,Running,102.559,3,18,0,198,Road Course
-8,lagunaseca,13,Christian Rasmussen,20,21,95,7464.2315,95,Running,102.542,3,17,0,190,Road Course
-8,lagunaseca,14,Pietro Fittipaldi,30,24,95,7464.6086,95,Running,102.537,4,16,0,177,Road Course
-8,lagunaseca,15,Christian Lundgaard,45,6,95,7464.9289,95,Running,102.532,3,15,0,185,Road Course
-8,lagunaseca,16,David Malukas,66,12,95,7468.3554,95,Running,102.485,4,14,0,169,Road Course
-8,lagunaseca,17,Linus Lundqvist,8,16,95,7470.0268,95,Running,102.462,4,13,0,155,Road Course
-8,lagunaseca,18,Agustin Canapino,78,13,95,7473.3992,95,Running,102.416,3,12,0,148,Road Course
-8,lagunaseca,19,Josef Newgarden,2,14,95,7477.1113,95,Running,102.365,3,12,0,137,Road Course
-8,lagunaseca,20,Sting Ray Robb,41,25,94,7470.45,94,Running,101.378,3,10,0,116,Road Course
-8,lagunaseca,21,Scott McLaughlin,3,7,93,7471.9741,93,Running,100.279,5,9,0,124,Road Course
-8,lagunaseca,22,Marcus Armstrong,11,11,93,7488.4558,93,Running,100.058,3,8,0,110,Road Course
-8,lagunaseca,23,Kyffin Simpson,4,22,86,6632.2312,86,Contact,104.472,3,7,0,89,Road Course
-8,lagunaseca,24,Graham Rahal,15,19,86,6633.26,86,Contact,104.456,4,6,0,82,Road Course
-8,lagunaseca,25,Jack Harvey,18,26,82,6280.7853,82,Mechanical,105.187,3,5,0,65,Road Course
-8,lagunaseca,26,Rinus VeeKay,21,20,72,5983.0398,72,Mechanical,96.956,3,5,0,61,Road Course
-8,lagunaseca,27,Luca Ghiotto,51,27,34,2457.8112,34,Contact,111.453,1,5,0,44,Road Course
+3,barber,1,Scott McLaughlin,3,1,90,7005.7773,58,Running,106.369,3,54,25,385,Road Course
+3,barber,2,Will Power,12,2,90,7007.0967,1,Running,106.349,3,41,18,352,Road Course
+3,barber,3,Linus Lundqvist,8,19,90,7008.2194,4,Running,106.332,3,36,15,312,Road Course
+3,barber,4,Felix Rosenqvist,60,5,90,7010.2882,1,Running,106.301,2,33,12,306,Road Course
+3,barber,5,Alex Palou,10,10,90,7011.1465,12,Running,106.288,2,31,10,281,Road Course
+3,barber,6,Christian Lundgaard,45,3,90,7011.8282,0,Running,106.278,3,28,8,280,Road Course
+3,barber,7,Santino Ferrucci,14,17,90,7012.3828,14,Running,106.269,3,27,6,254,Road Course
+3,barber,8,Colton Herta,26,15,90,7013.2897,0,Running,106.255,2,24,4,246,Road Course
+3,barber,9,Marcus Armstrong,11,6,90,7013.8148,0,Running,106.247,2,22,2,245,Road Course
+3,barber,10,Kyle Kirkwood,27,9,90,7014.3346,0,Running,106.240,2,20,1,232,Road Course
+3,barber,11,Graham Rahal,15,7,90,7014.8061,0,Running,106.232,2,19,0,224,Road Course
+3,barber,12,Romain Grosjean,77,11,90,7015.2268,0,Running,106.226,2,18,0,210,Road Course
+3,barber,13,Jack Harvey,18,22,90,7015.9042,0,Running,106.216,4,17,0,189,Road Course
+3,barber,14,Kyffin Simpson,4,23,90,7016.2188,0,Running,106.211,3,16,0,178,Road Course
+3,barber,15,Scott Dixon,9,13,90,7017.1401,0,Running,106.197,2,15,0,178,Road Course
+3,barber,16,Josef Newgarden,2,8,90,7018.0128,0,Running,106.184,2,14,0,173,Road Course
+3,barber,17,Rinus VeeKay,21,27,90,7019.2865,0,Running,106.165,3,13,0,144,Road Course
+3,barber,18,Marcus Ericsson,28,18,90,7019.621,0,Running,106.160,2,12,0,143,Road Course
+3,barber,19,Tom Blomqvist,66,12,90,7020.3524,0,Running,106.149,3,11,0,139,Road Course
+3,barber,20,Agustin Canapino,78,20,90,7020.458,0,Running,106.147,3,10,0,121,Road Course
+3,barber,21,Luca Ghiotto,51,21,90,7021.4582,0,Running,106.132,4,9,0,110,Road Course
+3,barber,22,Theo Pourchaire,6,24,89,6947.6985,0,Running,106.067,3,8,0,97,Road Course
+3,barber,23,Pato O'Ward,5,4,90,7022.2234,0,Running,106.120,3,7,0,108,Road Course
+3,barber,24,Christian Rasmussen,20,14,89,7023.5045,0,Running,104.922,3,6,0,87,Road Course
+3,barber,25,Alexander Rossi,7,16,60,6038.7103,0,Mechanical,82.269,2,5,0,75,Road Course
+3,barber,26,Sting Ray Robb,41,25,54,4199.8639,0,Contact,106.461,2,5,0,56,Road Course
+3,barber,27,Pietro Fittipaldi,30,26,42,6141.7871,0,Contact,56.622,2,5,0,45,Road Course
+8,lagunaseca,1,Alex Palou,10,1,95,7449.8545,48,Running,102.740,3,54,25,385,Road Course
+8,lagunaseca,2,Colton Herta,26,4,95,7451.8325,8,Running,102.712,3,41,18,348,Road Course
+8,lagunaseca,3,Alexander Rossi,7,5,95,7454.3681,10,Running,102.678,3,36,15,326,Road Course
+8,lagunaseca,4,Romain Grosjean,77,8,95,7454.6788,0,Running,102.673,3,32,12,303,Road Course
+8,lagunaseca,5,Kyle Kirkwood,27,2,95,7458.5313,24,Running,102.620,3,31,10,292,Road Course
+8,lagunaseca,6,Scott Dixon,9,10,95,7459.0049,0,Running,102.614,3,28,8,271,Road Course
+8,lagunaseca,7,Will Power,12,15,95,7459.8509,0,Running,102.602,3,26,6,256,Road Course
+8,lagunaseca,8,Pato O'Ward,5,9,95,7460.4759,0,Running,102.593,3,24,4,252,Road Course
+8,lagunaseca,9,Santino Ferrucci,14,17,95,7460.857,0,Running,102.588,3,22,2,234,Road Course
+8,lagunaseca,10,Marcus Ericsson,28,18,95,7461.4943,0,Running,102.579,3,20,1,223,Road Course
+8,lagunaseca,11,Felix Rosenqvist,60,3,95,7462.5633,0,Running,102.565,3,19,0,230,Road Course
+8,lagunaseca,12,Nolan Siegel,6,23,95,7462.985,0,Running,102.559,3,18,0,198,Road Course
+8,lagunaseca,13,Christian Rasmussen,20,21,95,7464.2315,0,Running,102.542,3,17,0,190,Road Course
+8,lagunaseca,14,Pietro Fittipaldi,30,24,95,7464.6086,0,Running,102.537,4,16,0,177,Road Course
+8,lagunaseca,15,Christian Lundgaard,45,6,95,7464.9289,0,Running,102.532,3,15,0,185,Road Course
+8,lagunaseca,16,David Malukas,66,12,95,7468.3554,0,Running,102.485,4,14,0,169,Road Course
+8,lagunaseca,17,Linus Lundqvist,8,16,95,7470.0268,0,Running,102.462,4,13,0,155,Road Course
+8,lagunaseca,18,Agustin Canapino,78,13,95,7473.3992,0,Running,102.416,3,12,0,148,Road Course
+8,lagunaseca,19,Josef Newgarden,2,14,95,7477.1113,5,Running,102.365,3,12,0,137,Road Course
+8,lagunaseca,20,Sting Ray Robb,41,25,94,7470.45,0,Running,101.378,3,10,0,116,Road Course
+8,lagunaseca,21,Scott McLaughlin,3,7,93,7471.9741,0,Running,100.279,5,9,0,124,Road Course
+8,lagunaseca,22,Marcus Armstrong,11,11,93,7488.4558,0,Running,100.058,3,8,0,110,Road Course
+8,lagunaseca,23,Kyffin Simpson,4,22,86,6632.2312,0,Contact,104.472,3,7,0,89,Road Course
+8,lagunaseca,24,Graham Rahal,15,19,86,6633.26,0,Contact,104.456,4,6,0,82,Road Course
+8,lagunaseca,25,Jack Harvey,18,26,82,6280.7853,0,Mechanical,105.187,3,5,0,65,Road Course
+8,lagunaseca,26,Rinus VeeKay,21,20,72,5983.0398,0,Mechanical,96.956,3,5,0,61,Road Course
+8,lagunaseca,27,Luca Ghiotto,51,27,34,2457.8112,0,Contact,111.453,1,5,0,44,Road Course
