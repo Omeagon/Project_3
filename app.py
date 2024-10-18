@@ -201,12 +201,48 @@ def laps_completed(driver):
 
 
 #################################################
-# James branch/route; update as needed
+# James branch/route - Laps Led by Driver for a Specific Race or the Full Season
 #################################################
 @app.route("/IndyCar/lapsled/<race>")
-def route5():
-# Jsonify data to be returned    
-    return jsonify()
+def laps_led(race):
+    """Display laps led by each driver for a specific race or across the full season."""
+    if race.lower() == "all":
+        # Query to get total laps led by each driver for the full season
+        results = session.query(
+            indydata_2024.driver,
+            func.sum(indydata_2024.laps_led).label('total_laps_led')
+        ).group_by(indydata_2024.driver).order_by(desc('total_laps_led')).all()
+        
+        # Prepare data for the graph
+        data = [{'Driver': row.driver, 'Laps Led': row.total_laps_led} for row in results]
+        title = "Total Laps Led by Driver Over the Full Season"
+    else:
+        # Query to get laps led by each driver for a specific race
+        results = session.query(
+            indydata_2024.driver,
+            indydata_2024.race_city,
+            func.sum(indydata_2024.laps_led).label('laps_led')
+        ).filter(indydata_2024.race_num == race).group_by(indydata_2024.driver, indydata_2024.race_city).all()
+        
+        # Prepare data for the graph
+        data = [{'Driver': row.driver, 'Race City': row.race_city, 'Laps Led': row.laps_led} for row in results]
+        title = f"Laps Led by Driver for Race {race}"
+    
+    # Convert to  DataFrame
+    graph_data = pd.DataFrame(data)
+
+    # Plot graph
+    fig = px.bar(
+        graph_data,
+        x='Laps Led',
+        y='Driver',
+        orientation='h',
+        title=title,
+        labels={'Laps Led': 'Laps Led', 'Driver': 'Driver'}
+    )
+    fig.update_layout(yaxis={'categoryorder': 'total ascending'})
+    graph_html = pio.to_html(fig, full_html=False)
+    return render_template('laps_led.html', graph_html=graph_html)
 
 
 #################################################
