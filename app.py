@@ -113,11 +113,11 @@ def welcome():
         f"<div style='text-indent: 20px; font-size: 15px;'>"
         f"Route Location: /IndyCar/points/Track-Type<br/><br/>"
 
-        # Laura branch/route; update as needed
+        # Laura's branch/route; update as needed
         f"<div style='text-indent: 0px; font-size: 20px;'>"
-        f"<strong>Average Speed by Track Type and Race</strong><br/>"
+        f"<strong>Average Speed by Driver and Status</strong><br/>"
         f"<div style='text-indent: 20px; font-size: 15px;'>"
-        f"Route Location: /IndyCar/speed<br/><br/>"
+        f"Route Location: /IndyCar/speed/Driver-Name<br/><br/>"
 
         # Jane's first branch/route; update as needed
         f"<div style='text-indent: 0px; font-size: 20px;'>"
@@ -237,11 +237,41 @@ def rank(track_type):
 #################################################
 # Laura branch/route; update as needed
 #################################################
-@app.route("/IndyCar/speed")
-def route2():
-# Jsonify data to be returned    
-    return jsonify()
+@app.route("/IndyCar/avgspeedtrack/<track_type>/<driver>")
+def avgspeed_by_track_driver(track_type, driver):
+    # Query average speed by track type and driver
+    results = session.query(
+        indydata_2024.race_num,
+        indydata_2024.race_city,
+        indydata_2024.track_type,
+        indydata_2024.avg_speed,
+        indydata_2024.status
+    ).filter(indydata_2024.track_type == track_type, indydata_2024.driver == driver).order_by(indydata_2024.race_num).all()
 
+    # Prepare data for graph
+    data = []
+    for row in results:
+        race_label = f"{row.race_num}-{row.race_city}"
+        data.append({
+            'race_label': race_label,
+            'average_speed': row.avg_speed,
+            'status': row.status
+        })
+
+    graph_data = pd.DataFrame(data)
+
+    # Create a bar chart for average speed by track type and driver
+    fig = px.bar(graph_data, x='race_label', y='average_speed', color='status',
+                 title=f"Average Speed of {driver} on {track_type} Tracks")
+    fig.update_layout(
+        xaxis_title='Race Number and Location',
+        yaxis_title='Average Speed'
+    )
+
+    graph_html = pio.to_html(fig, full_html=False)
+
+    # Render the HTML template with the graph
+    return render_template('trackavgspeedresults_copy.html', graph_html=graph_html)
 
 #################################################
 # Jane's first branch/route
