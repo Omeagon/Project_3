@@ -39,6 +39,52 @@ indydata_2024 = Base.classes.indydata_2024
 # Create our session (link) from Python to the DB
 session = Session(engine)
 
+# Define driver colormap for visualizations
+
+driver_car_colors = {'Agustin Canapino': '#01FF4F',
+ 'Alex Palou': '#FFCC00',
+ 'Alexander Rossi': '#FF7200',
+ 'Callum Ilott': '#FF7200',
+ 'Christian Lundgaard': '#D62017',
+ 'Christian Rasmussen': '#0095DA',
+ 'Colin Braun': '#C72017',
+ 'Colton Herta': '#EFC21C',
+ 'Conor Daly': '#01FF4F',
+ 'David Malukas': '#D21281',
+ 'Ed Carpenter': '#0095DA',
+ 'Felix Rosenqvist': '#D21281',
+ 'Graham Rahal': '#2B4787',
+ 'Helio Castroneves': '#0361A1',
+ 'Hunter McElrea': '#8BAC2E',
+ 'Jack Harvey': '#8BAC2E',
+ 'Josef Newgarden': '#016690',
+ 'Juri Vips': '#D12230',
+ 'Katherine Legge': '#F085B1',
+ 'Kyffin Simpson': '#0C4C91',
+ 'Kyle Kirkwood': '#D21281',
+ 'Kyle Larson': '#FF7200',
+ 'Linus Lundqvist': '#173D6D',
+ 'Luca Ghiotto': '#C72017',
+ 'Marco Andretti': '#09629C',
+ 'Marcus Armstrong': '#00904B',
+ 'Marcus Ericsson': '#379985',
+ 'Nolan Siegel': '#FF7200',
+ "Pato O'Ward": '#FF7200',
+ 'Pietro Fittipaldi': '#E5D21E',
+ 'Rinus VeeKay': '#5DB446',
+ 'Romain Grosjean': '#01FF4F',
+ 'Ryan Hunter-Reay': '#C75A2E',
+ 'Santino Ferrucci': '#313232',
+ 'Scott Dixon': '#D1602A',
+ 'Scott McLaughlin': '#FBD302',
+ 'Sting Ray Robb': '#FCEE04',
+ 'Takuma Sato': '#D12230',
+ 'Theo Pourchaire': '#FF7200',
+ 'Toby Sowery': '#C72017',
+ 'Tom Blomqvist': '#D21281',
+ 'Tristan Vautier': '#C72017',
+ 'Will Power': '#EC2026'}
+
 #################################################
 # Flask Setup
 #################################################
@@ -63,9 +109,9 @@ def welcome():
 
         # Rob branch/route; update as needed.
         f"<div style='text-indent: 0px; font-size: 20px;'>"
-        f"<strong>Championship Points by League (F1, IndyCar, IMSA)</strong><br/>" 
+        f"<strong>Championship Points by Track Type)</strong><br/>" 
         f"<div style='text-indent: 20px; font-size: 15px;'>"
-        f"Route Location: /IndyCar/points/Driver-Name<br/><br/>"
+        f"Route Location: /IndyCar/points/Track-Type<br/><br/>"
 
         # Laura branch/route; update as needed
         f"<div style='text-indent: 0px; font-size: 20px;'>"
@@ -118,8 +164,72 @@ def welcome():
 #################################################
 # Rob branch/route; update as needed.
 #################################################
-@app.route("/IndyCar/points")
-def route1():
+@app.route("/IndyCar/points/<track_type>")
+def points(track_type):
+    results = session.query(indydata_2024
+    ).filter(indydata_2024.track_type == track_type
+    ).order_by(indydata_2024.race_num).all()
+    data = []
+    for row in results:
+        race_label = f"{row.race_num}-{row.race_city}"
+        data.append({
+            'race_label': race_label
+        })
+    
+    graph_data = pd.DataFrame(data)
+    graph_data['Points Total'] = graph_data.groupby('driver')['points'].cumsum()
+    graph_data['Championship Rank'] = graph_data.groupby('race_city')['Points Total'].rank(method='min', ascending=False).astype('int')
+
+
+    total_points = graph_data.groupby('driver')['Points Total'].max().reset_index().sort_values(by='Points Total', ascending=False)
+    total_points['Championship Rank'] = total_points['Points Total'].rank(method='min', ascending=False).astype('int')
+    total_points['Championship Result'] = total_points['Championship Rank']
+    total_points.set_index('Championship Rank', inplace=True)
+    total_points['Labeled Driver'] = total_points['driver'] + ' (' + total_points['Championship Result'].astype(str) + ')'
+    championship_rank = total_points['driver'].tolist()
+    
+    fig = px.line(graph_data, x='Race', y='Points Total', color='driver', 
+              title='Points (Official)', height=900, color_discrete_map=driver_car_colors, category_orders={'driver': championship_rank}, hover_data=['Championship Rank', 'Race Number'])
+    
+    graph_html = pio.to_html(fig, full_html=False)
+
+    return render_template('points.html', graph_html=graph_html)
+# Jsonify data to be returned    
+    return jsonify()
+
+
+@app.route("/IndyCar/rank/<track_type>")
+def rank(track_type):
+    results = session.query(indydata_2024
+    ).filter(indydata_2024.track_type == track_type
+    ).order_by(indydata_2024.race_num).all()
+    data = []
+    for row in results:
+        race_label = f"{row.race_num}-{row.race_city}"
+        data.append({
+            'race_label': race_label
+        })
+    
+    graph_data = pd.DataFrame(data)
+    graph_data['Points Total'] = graph_data.groupby('driver')['Points'].cumsum()
+    graph_data['Championship Rank'] = graph_data.groupby('race_city')['Points Total'].rank(method='min', ascending=False).astype('int')
+
+
+    total_points = graph_data.groupby('driver')['Points Total'].max().reset_index().sort_values(by='Points Total', ascending=False)
+    total_points['Championship Rank'] = total_points['Points Total'].rank(method='min', ascending=False).astype('int')
+    total_points['Championship Result'] = total_points['Championship Rank']
+    total_points.set_index('Championship Rank', inplace=True)
+    total_points['Labeled Driver'] = total_points['Driver'] + ' (' + total_points['Championship Result'].astype(str) + ')'
+    championship_rank = total_points['driver'].tolist()
+    
+    fig = px.bar(total_points, y='Labeled Driver', x='Points Total', color='driver',
+             title='Final Points Standings', color_discrete_map=driver_car_colors, height=900, hover_data=['Championship Result'], labels={'Labeled Driver': 'driver'})
+    fig.update_layout(showlegend=False).update_yaxes(autorange='reversed')
+    
+    graph_html = pio.to_html(fig, full_html=False)
+
+    return render_template('rank.html', graph_html=graph_html)
+    
 # Jsonify data to be returned    
     return jsonify()
 
